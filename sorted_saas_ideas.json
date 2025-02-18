@@ -1,7 +1,7 @@
 [
     {
         "title": "4 years ago I wrote a case study on reddit on my $4k per month local business. I've since built that company into a multi-million dollar company and the redditors that followed are now doing a combined $50 million dollars per year! Updated case study and AMA.",
-        "upvotes": 4334,
+        "upvotes": 4342,
         "comments": [
             "[deleted]",
             "[deleted]",
@@ -189,11 +189,11 @@
         ],
         "num_comments": 821,
         "sentiment": 0.19387755260991094,
-        "score": 9490.9387755261
+        "score": 9506.9387755261
     },
     {
         "title": "I've challenged myself to make $100K in 100 days (DAY 100)",
-        "upvotes": 3357,
+        "upvotes": 3352,
         "comments": [
             "So why not use this knowledge and experience and challenge yourself to make 50k in the next 100 days?",
             "I saw your progress update posts on here, I think you've got a great attitude. Just the commitment of making regular update posts and being introspective enough to derive lessons from the experience already speaks volume about you as a person. Best of luck on your journey",
@@ -419,7 +419,7 @@
         ],
         "num_comments": 356,
         "sentiment": 0.22212982463565722,
-        "score": 7072.221298246356
+        "score": 7062.221298246356
     },
     {
         "title": "SEO is easy. The EXACT process we use to scale our clients' SEO from 0 to 200k monthly traffic and beyond",
@@ -654,7 +654,7 @@
     },
     {
         "title": "Mistakes I Wish I Hadn't Made (after building 30 startups)",
-        "upvotes": 1528,
+        "upvotes": 1532,
         "comments": [
             "In my limited time bootstrapping my own stuff, I raise a glass to your list.\n\nMy version:\n\n* **B2B > B2C** (except if you've some specialized unserved niche that you can have an app up and running in a few days and are willing to just gamble).\n* **No VC** - I haven't done VC, but hear horror stories. One interview I heard yesterday said, if you make a $2M business as a bootstrapped company you're a success. But in VC you need to get to $100M. However, how many businesses can get to a $100M valuation. You're setting yourself up for failure.\n* **Nail outreach** - distribution will make or break you. Outreach + no product = pre sell product. Product + no outreach = no sales.\n* **Yes to SEO & Content; No to relying on it 100%** - Google is seriously monkeying with search results. So you need SEO and content, but make sure you have other avenues as well.\n* **Piggyback off other traffic sources** - Reddit, Pintrest, Quora, YouTube, TikTok, Instagram, Facebook, etc. Know them. Love them.\n* **The Time Investment to Validation Ratio** - the longer it will take to build something, the longer you should take to validate it. If you can get it up in a weekend or a week, then you can risk less validation.\n* **Off the shelf as much as possible** - At the beginning you have no idea if your project will work. So it's easier to start with a $199 boilerplate than spend 3 months reinventing the wheel. Use as many off the shelf and free tools as you can. Google Forms are your friend. You can even create signable documents in JotForm for free.\n* **Tiny MVP:** I know so many successful projects that started out as a Excel or Google sheet. Start with the minimum minimum viable product. Try to not code at all until you have paying customers.\n* **The \"Jay Leno\" approach** - If at all possible have a day job. When your project gets traction, then jump to it. Jay Leno said he's never lived off his tonight show money. He lives off the earnings from his stand up gigs. I've seen a lot of successful projects that were helped by this model.\n* **Either people buy your product/service or they don't** - You'll get so many \"that's a great idea\" or \"I'd be open to using your service in 6 months when you launch\" or \"I love this, let me talk to my boss\" or \"this could be a great partnership for us where we can send you a lot of business let's spend the next 6 months working out a deal\" or \"how about we use your service for an equity deal in our company that hasn't made any money yet\". Farts in the wind. Cash in hand is the ultimate validation.\n* **Research, Research:** Look up how much competition you'll have on Google. Find a successful business model to copy and ask what are their traffic sources and how long have they been successful. Understand your market.\n* **The Long Haul:** Something may be a great idea, that serves a market, that's validated, that's easy to build, but ... do you want to work on this idea and promote it for the next 3-5 years? Launching is one thing. Continuing to put effort into it is a whole other challenge.\n* **Sunk Cost Quicksand:** It's very hard to kill a project after you've put years into it. I've been working on a site for 2 years with zero monetary returns. Currently I'm transitioning it to a more passive model and will let it just exist. But it's very hard not to want to put more effort into it when I know it could have potential. One developer says if you haven't made any money with it in 3 to 6 months, you should probably kill it. However, I know a project that's currently making $70K MRR but it took them 3 years to get to $1K MRR. So it's a tricky balance to know if you're being persistent or being a fool.\n* **Get to Money Sooner:** Big funded companies can afford to exist in the red for years (or a decade), but most of us have limited money, time, and effort. The faster you can get a project, website, business to cash, they sooner you'll know you have traction.\n* **Some other lessons:** [https://twitter.com/adamdenverco/highlights](https://twitter.com/adamdenverco/highlights)",
             "This is gold.",
@@ -804,11 +804,11 @@
         ],
         "num_comments": 254,
         "sentiment": 0.22206213115187634,
-        "score": 3312.2206213115187
+        "score": 3320.2206213115187
     },
     {
         "title": "I run an AI automation agency (AAA). My honest overview and review of this new business model",
-        "upvotes": 1383,
+        "upvotes": 1396,
         "comments": [
             "Good Guide on RAG (retrieval augmented Generation)- super helpful if you are looking to get a high level overview of 90% of the solutions AAA's build: [https://www.pinecone.io/learn/retrieval-augmented-generation/](https://www.pinecone.io/learn/retrieval-augmented-generation/)\n\nHere are links to all platforms and tools I've mentioned in the post that's helped me\n\n**Python Libraries:**\n\n* Langchain: [https://python.langchain.com/docs/get\\_started/introduction](https://python.langchain.com/docs/get_started/introduction)\n* LlamaIndex: [https://docs.llamaindex.ai/en/stable/](https://docs.llamaindex.ai/en/stable/)\n\n**No-Code AI and Automation Tools:**\n\n* MindStudio: [https://youai.ai/](https://youai.ai/)\n* MyAskAI: [https://myaskai.com/](https://myaskai.com/)\n* Botpress: [https://botpress.com/](https://botpress.com/)\n* Voiceflow: [https://www.voiceflow.com/](https://www.voiceflow.com/)\n* Stack AI: [https://www.stack-ai.com/](https://www.stack-ai.com/)\n* Flowise: [https://flowiseai.com/](https://flowiseai.com/)\n* Zapier: [https://zapier.com/](https://zapier.com/)\n* make.com: [https://www.make.com/en](https://www.make.com/en)\n\n**Presentation and Prototyping Tools:**\n\nPlus AI (Google Slides add-on): \\[[https://www.plusdocs.com/\\](https://www.plusdocs.com/)](https://www.plusdocs.com/](https://www.plusdocs.com/))\n\n**Marketing and SEO Tools:**\n\nProfilePro (Chrome extension for Google Business Profile): [https://www.merchynt.com/profilepro](https://www.merchynt.com/profilepro)\n\n**Sales and Outreach Tools:**\n\n* Apollo.io: [https://www.apollo.io/](https://www.apollo.io/)\n* reply.io: [https://reply.io/](https://reply.io/)\n* zoominfo: [https://www.zoominfo.com/](https://www.zoominfo.com/)\n* Linkedin Sales Navigator: [https://business.linkedin.com/sales-solutions/sales-navigator](https://business.linkedin.com/sales-solutions/sales-navigator)\n* SmartWriter.ai: [https://www.smartwriter.ai/](https://www.smartwriter.ai/)\n\n**Miscellaneous (not gonna put links as you probably already know them)**\n\nUpwork (for sourcing talent)\n\nFiverr (mentioned in relation to content generation)\n\nTrustPilot (for business reputation)",
             "Can\u2019t thank you enough for putting this together ya beast. How much are you netting per month with this? Average revenue per client etc?",
@@ -919,11 +919,100 @@
         ],
         "num_comments": 215,
         "sentiment": 0.23221747049270014,
-        "score": 2983.322174704927
+        "score": 3009.322174704927
+    },
+    {
+        "title": "12 months ago, I was unemployed. Last week my side hustle got acquired by a $500m fintech company",
+        "upvotes": 1371,
+        "comments": [
+            "I read it as you sold your one year old company for 500M",
+            "Ok so this comment is meant more for self reflection than a FU...\n\nAs an investor myself if I had come across this site organically I would never put my money into it. There are far too many bold and underlined mega font CTAs and there are spelling mistakes like you see in scam sites made by non-English speakers. It looks like it was thrown together yesterday and it would be 50/50 whether I'd be giving my cc away.\n\nGiven your relatively quick success, it just shows what I know. This a great lesson for me in not overthinking, or over polishing the product before testing the market response. With all the time and effort I am putting in to my own product I could be polishing a turd once the market decides.\n\nThanks for the detailed write up.",
+            "Very interesting story, congrats. If I may ask you a couple of questions:\n\nWhere did you find your coder(s)?\n\nHow did you negotiate the price of the project? Equity? Salary? Was it an expensive project/app?\n\nTy.",
+            "I'll assume you got $4 for the sale unless otherwise noted",
+            "Well done and thank you for sharing such a detailed breakdown of your experience! This is so valuable and helpful!",
+            "Don\u2019t understand why you would sell though? You\u2019re only making $6000 a month in revenue after 12 months so it seems like there was potential to grow your MRR to give a higher valuation? \n\nI can\u2019t imagine a company would have paid you more than one or two hundred thousand. And that\u2019s being optimistic.",
+            "How did you get from the successful product hunt launch to being acquired? What was the timeline on that? Congrats!",
+            "How much time and/or money did it take to develop your \"small army\" that served as your marketing for product hunt? Was it all just personally reaching out to these people for the first time through twitter?",
+            "First off, congratulations!! Thank you so much for sharing!!",
+            "How many people were signed up at time of acquisition?",
+            "4/10 ad",
+            "I'm surprised someone hasn't gotten in an uproar yet and proclaimed \"this is just a shill post for his company....look he even posted a link to it\".",
+            "This is honestly epic! What made you sell so soon?",
+            "That's awesome, congrats! Thank you for your post, it's inspiring. Super happy that its from a local, I'm from Aus too.  I wanted to do a business forever but life always got into the way. But now, I have even changed my major to business and now I'm on my last semester with business degree focusing on data/ business analytics. I feel like there is a lot of stuff in tech that can be developed especially in Australia. I haven't been here long enough to make friends and sadly due to 220+ days into lockdown, its impossible to meet any one new. So I guess I will be a on my own, hopefully soon!",
+            "Finally, a post that shares details, thank you!",
+            "Great job!!!!",
+            "Amazing job!!",
+            "Great story and great job! Any resources / part 2 of how you came about getting acquired? Did you approach or they approach? Listed on a market? etc?",
+            "Wow",
+            "Do you have to create a LLC to start pre-sales?",
+            "Inspiring story !",
+            "Amazing. Now, we're all thinking it - how much did you profit off of this?",
+            "So let me this get right, a company worth of 500 million bought you, so how much they paid for your company?",
+            "so you didn't sell your startup for 500m?",
+            "I don\u2019t appreciate how you misguide. Welcome to the club.",
+            "Great post, useful information, thanks!",
+            "Yea I feel like OP is pitch his startup that hasn\u2019t made anything by pitching what Reddit does naturally in some form of a business?",
+            "Who made landing page video? Whose voice is that?\n\n[https://www.tickernerd.com/](https://www.tickernerd.com/)\n\nLogo is well also made who made it. Clean design kudos",
+            "Great read. I was relieved to see you weren't coders! That gives me hope for my next shindig",
+            "\"...valued at around $500m...\"\n\nWhat is the relevance of this detail?",
+            "Whats selling price?",
+            "How did. you negotiated the selling price? What was process?",
+            "Wow that sounds really great, really want to know more\ud83e\udd29 and congratulations",
+            "Tales from the Trans -Allegney lunatic asylum for the criminally insane",
+            "Very useful set of steps and process. Thank you very much. Here's a [mindset boost.](https://geoffnow980.theconversionpros.com/sl/desires/) (for anyone.. )\n\nGeoff\n\nP.S. I'm running a subreddit called 'Dissolve Depression' with an upbeat stance...\n\n:)",
+            "Dude no joke. You're my hero",
+            "You mention \u201cthe beauty of posting on Reddit\u2026\u201d\n\nReddit is a pretty notoriously hard crowd to please when it comes to self promotion, even when it takes the form of a genuine discussion in what potential users want in a service. How did you start discussions in special interest subreddits (investing subreddits) without coming off as someone with something to sell?",
+            "Nothing special, you just sold a website to someone that was willing to pay a high price.\n\nLike you said, you were stuck at an important phase of the website, to grow it after it received coverage/press. You tried paid ads, and it didnt work out so you gave up and were afraid the current MMR would drop, and that nobody would be interested in buying it making it worthless.\n\nYou sir, are not an entrepreneur, but someone that sold something that had potential, but was afraid to make it grow.\n\nFor me, this is not an inspirational story, but a story of someone wanted to stay in his comfort zone.",
+            "[removed]",
+            "Can\u2019t believe someone paid $500m for your side piece. Things will get better.",
+            "Congrats! How much traffic did you end up getting from Product Hunt, and is that how Finder reached out to you?",
+            "Awesome awesome awesome. One of those reddit links is down, but thank you for sharing and congratulations",
+            "What / when did you do the boring legal stuff to incorporate? Right away? After a certain sales threshold ?",
+            "Congrats  \n\n\nWhat is your background? Are you a coder?  \n\n\nBeing an entrepreneur with sales skill wanting to make it is different to an entrepreneur with technical skills",
+            "RemindMe! 2 days",
+            "Very interesting. Thanks for sharing this!",
+            "Hey OP, wouldn't you wonder if anyone with any coding experience could just go ahead and make your product? It doesn't seem like something very hard to make. When you were sharing the idea with everyone didn't you worry about someone else making it instead?",
+            "Saving",
+            "Amazing. I have been trying for years and now no success. There are many to learn from this post.",
+            "Did you get any positive reviews...did anyone make money off your newsletter?",
+            "you a millionaire now?",
+            "As a seasoned web application developer, could you go into more detail of how you determined stocks that were trending?",
+            "Thank you for this!",
+            "Thanks for giving back to the community! I hope someday I can do the same.",
+            "Truly inspiring, incredibly helpful, and miraculously timely. Thank you so much for sharing!",
+            "Thank you for taking the time to write this. I enjoyed reading it.  \nCongratulations!  \nI am going to check out Product Hunt. I have never heard of this.  \nAlso, My First Million is one of my favorite podcasts. Sam & Shaan are brilliant.  \nAnyway, thank again for the informative write up. Congrats!",
+            "Would be great to get all the links you mentioned above to the resources for ideas. Please can you PM or post here?",
+            "How did you find a programmer?",
+            "[https://t.me/DollarwonBOT?start=r0061433477](https://t.me/DollarwonBOT?start=r0061433477) to start ur bussinus join us",
+            "Amazing work",
+            "That's an interesting approach !!",
+            "Congrats. So, are you still unemployed?",
+            "Rough range of sale? Low 7 figures?",
+            "I\u2019m curious - you worked with a coder. What\u2019s to stop them from just stealing your idea ? A simple NDA?",
+            "Firstly, congrats on selling the company!   \n\n\nI'm not sure why so many people here are so mad, or even worse don't believe you. I've seen products and companies get loads of investment before even launching anything and acquired after creating only a small amount of revenue.  \n\n\nCarrd is also my go-to for making really quick sites since I'm not a developer either.",
+            "After reading title\u2026. Was your company a side hustle to being unemployed?  Anyways congrats on the sale!",
+            "I'll not believe",
+            "Congratulations!",
+            "He sold the company for 1M!",
+            "Great resources. Well written. I haven't seen many posts this useful for people.",
+            "u/wutangsam Thank you for this helpful and detailed post! Congrats on your success! :)",
+            "Anyone knows where a person can get funding or investors to build houses and sell them and we can all benefit as there is a shortage of homes",
+            "Thanks OP for sharing! You\u2019re really inspiring wishing you all the best in your venture. Let me know if you\u2019re hiring\ud83e\udd1c\ud83e\udd1b\ud83c\udffb",
+            "Thank you for sharing. We need a story like this once in a while.",
+            "How easy was it having to do totally software related business without being a coder?",
+            "C",
+            "A year already?",
+            "Thanks for taking the time to write this. I\u2019ve had an idea for a bit and haven\u2019t done anything because I didn\u2019t have the time to work out the how for some this. Think I have everything I need now. Thanks!!",
+            "Good points about idea finding. As a S/W developer, I am often stuck at this single point to move forward.",
+            "Thanks for sharing OP. This was very inspiring. Did you still go through with hiring a developer to create the SaaS? You still needed to deliver stock picks based on what was trending on social media, right? How did you complete the analyses for your newsletters?\n\n&#x200B;\n\nThanks in advance."
+        ],
+        "num_comments": 204,
+        "sentiment": 0.21718991251803751,
+        "score": 2948.1718991251805
     },
     {
         "title": "I\u2019ve sold nearly $20M worth of profitable businesses in 2017. AMA about online businesses models, scaling teams, and buying/selling online businesses",
-        "upvotes": 1283,
+        "upvotes": 1279,
         "comments": [
             "Currently, run an FBA business, we have only been going for 3 months but already doing \u00a35k monthly revenue. In January we are launching 2 more products to bring this up to hopefully \u00a315k monthly revenue with around a third of that being profit. \n\nI would love to be able to sell this business late nearly year / early 2019, my question is how can I make sure that I am doing everything right now for the business to be in the most attractive state for a buyer later down the line? Attached to this, is there any hot points to focus on, e.g. is an FBA business with a large social media following and Shopify worth a lot more than a straight FBA business doing near enough identical figures. \n\nThanks a lot for your insights, Empire Flippers will be our go to!",
             "Hey. I run a different kind of ecommerce site: I manufacture my own goods. Because of this, me and my team are pretty tied in to our product. Do you facilitate partial equity sales or only full site deals? I know most buyers are looking for hands-off opportunities.",
@@ -1070,100 +1159,11 @@
         ],
         "num_comments": 385,
         "sentiment": 0.0938436667297878,
-        "score": 2951.938436667298
-    },
-    {
-        "title": "12 months ago, I was unemployed. Last week my side hustle got acquired by a $500m fintech company",
-        "upvotes": 1368,
-        "comments": [
-            "I read it as you sold your one year old company for 500M",
-            "Ok so this comment is meant more for self reflection than a FU...\n\nAs an investor myself if I had come across this site organically I would never put my money into it. There are far too many bold and underlined mega font CTAs and there are spelling mistakes like you see in scam sites made by non-English speakers. It looks like it was thrown together yesterday and it would be 50/50 whether I'd be giving my cc away.\n\nGiven your relatively quick success, it just shows what I know. This a great lesson for me in not overthinking, or over polishing the product before testing the market response. With all the time and effort I am putting in to my own product I could be polishing a turd once the market decides.\n\nThanks for the detailed write up.",
-            "Very interesting story, congrats. If I may ask you a couple of questions:\n\nWhere did you find your coder(s)?\n\nHow did you negotiate the price of the project? Equity? Salary? Was it an expensive project/app?\n\nTy.",
-            "I'll assume you got $4 for the sale unless otherwise noted",
-            "Well done and thank you for sharing such a detailed breakdown of your experience! This is so valuable and helpful!",
-            "Don\u2019t understand why you would sell though? You\u2019re only making $6000 a month in revenue after 12 months so it seems like there was potential to grow your MRR to give a higher valuation? \n\nI can\u2019t imagine a company would have paid you more than one or two hundred thousand. And that\u2019s being optimistic.",
-            "How did you get from the successful product hunt launch to being acquired? What was the timeline on that? Congrats!",
-            "How much time and/or money did it take to develop your \"small army\" that served as your marketing for product hunt? Was it all just personally reaching out to these people for the first time through twitter?",
-            "First off, congratulations!! Thank you so much for sharing!!",
-            "How many people were signed up at time of acquisition?",
-            "4/10 ad",
-            "I'm surprised someone hasn't gotten in an uproar yet and proclaimed \"this is just a shill post for his company....look he even posted a link to it\".",
-            "This is honestly epic! What made you sell so soon?",
-            "That's awesome, congrats! Thank you for your post, it's inspiring. Super happy that its from a local, I'm from Aus too.  I wanted to do a business forever but life always got into the way. But now, I have even changed my major to business and now I'm on my last semester with business degree focusing on data/ business analytics. I feel like there is a lot of stuff in tech that can be developed especially in Australia. I haven't been here long enough to make friends and sadly due to 220+ days into lockdown, its impossible to meet any one new. So I guess I will be a on my own, hopefully soon!",
-            "Finally, a post that shares details, thank you!",
-            "Great job!!!!",
-            "Amazing job!!",
-            "Great story and great job! Any resources / part 2 of how you came about getting acquired? Did you approach or they approach? Listed on a market? etc?",
-            "Wow",
-            "Do you have to create a LLC to start pre-sales?",
-            "Inspiring story !",
-            "Amazing. Now, we're all thinking it - how much did you profit off of this?",
-            "So let me this get right, a company worth of 500 million bought you, so how much they paid for your company?",
-            "so you didn't sell your startup for 500m?",
-            "I don\u2019t appreciate how you misguide. Welcome to the club.",
-            "Great post, useful information, thanks!",
-            "Yea I feel like OP is pitch his startup that hasn\u2019t made anything by pitching what Reddit does naturally in some form of a business?",
-            "Who made landing page video? Whose voice is that?\n\n[https://www.tickernerd.com/](https://www.tickernerd.com/)\n\nLogo is well also made who made it. Clean design kudos",
-            "Great read. I was relieved to see you weren't coders! That gives me hope for my next shindig",
-            "\"...valued at around $500m...\"\n\nWhat is the relevance of this detail?",
-            "Whats selling price?",
-            "How did. you negotiated the selling price? What was process?",
-            "Wow that sounds really great, really want to know more\ud83e\udd29 and congratulations",
-            "Tales from the Trans -Allegney lunatic asylum for the criminally insane",
-            "Very useful set of steps and process. Thank you very much. Here's a [mindset boost.](https://geoffnow980.theconversionpros.com/sl/desires/) (for anyone.. )\n\nGeoff\n\nP.S. I'm running a subreddit called 'Dissolve Depression' with an upbeat stance...\n\n:)",
-            "Dude no joke. You're my hero",
-            "You mention \u201cthe beauty of posting on Reddit\u2026\u201d\n\nReddit is a pretty notoriously hard crowd to please when it comes to self promotion, even when it takes the form of a genuine discussion in what potential users want in a service. How did you start discussions in special interest subreddits (investing subreddits) without coming off as someone with something to sell?",
-            "Nothing special, you just sold a website to someone that was willing to pay a high price.\n\nLike you said, you were stuck at an important phase of the website, to grow it after it received coverage/press. You tried paid ads, and it didnt work out so you gave up and were afraid the current MMR would drop, and that nobody would be interested in buying it making it worthless.\n\nYou sir, are not an entrepreneur, but someone that sold something that had potential, but was afraid to make it grow.\n\nFor me, this is not an inspirational story, but a story of someone wanted to stay in his comfort zone.",
-            "[removed]",
-            "Can\u2019t believe someone paid $500m for your side piece. Things will get better.",
-            "Congrats! How much traffic did you end up getting from Product Hunt, and is that how Finder reached out to you?",
-            "Awesome awesome awesome. One of those reddit links is down, but thank you for sharing and congratulations",
-            "What / when did you do the boring legal stuff to incorporate? Right away? After a certain sales threshold ?",
-            "Congrats  \n\n\nWhat is your background? Are you a coder?  \n\n\nBeing an entrepreneur with sales skill wanting to make it is different to an entrepreneur with technical skills",
-            "RemindMe! 2 days",
-            "Very interesting. Thanks for sharing this!",
-            "Hey OP, wouldn't you wonder if anyone with any coding experience could just go ahead and make your product? It doesn't seem like something very hard to make. When you were sharing the idea with everyone didn't you worry about someone else making it instead?",
-            "Saving",
-            "Amazing. I have been trying for years and now no success. There are many to learn from this post.",
-            "Did you get any positive reviews...did anyone make money off your newsletter?",
-            "you a millionaire now?",
-            "As a seasoned web application developer, could you go into more detail of how you determined stocks that were trending?",
-            "Thank you for this!",
-            "Thanks for giving back to the community! I hope someday I can do the same.",
-            "Truly inspiring, incredibly helpful, and miraculously timely. Thank you so much for sharing!",
-            "Thank you for taking the time to write this. I enjoyed reading it.  \nCongratulations!  \nI am going to check out Product Hunt. I have never heard of this.  \nAlso, My First Million is one of my favorite podcasts. Sam & Shaan are brilliant.  \nAnyway, thank again for the informative write up. Congrats!",
-            "Would be great to get all the links you mentioned above to the resources for ideas. Please can you PM or post here?",
-            "How did you find a programmer?",
-            "[https://t.me/DollarwonBOT?start=r0061433477](https://t.me/DollarwonBOT?start=r0061433477) to start ur bussinus join us",
-            "Amazing work",
-            "That's an interesting approach !!",
-            "Congrats. So, are you still unemployed?",
-            "Rough range of sale? Low 7 figures?",
-            "I\u2019m curious - you worked with a coder. What\u2019s to stop them from just stealing your idea ? A simple NDA?",
-            "Firstly, congrats on selling the company!   \n\n\nI'm not sure why so many people here are so mad, or even worse don't believe you. I've seen products and companies get loads of investment before even launching anything and acquired after creating only a small amount of revenue.  \n\n\nCarrd is also my go-to for making really quick sites since I'm not a developer either.",
-            "After reading title\u2026. Was your company a side hustle to being unemployed?  Anyways congrats on the sale!",
-            "I'll not believe",
-            "Congratulations!",
-            "He sold the company for 1M!",
-            "Great resources. Well written. I haven't seen many posts this useful for people.",
-            "u/wutangsam Thank you for this helpful and detailed post! Congrats on your success! :)",
-            "Anyone knows where a person can get funding or investors to build houses and sell them and we can all benefit as there is a shortage of homes",
-            "Thanks OP for sharing! You\u2019re really inspiring wishing you all the best in your venture. Let me know if you\u2019re hiring\ud83e\udd1c\ud83e\udd1b\ud83c\udffb",
-            "Thank you for sharing. We need a story like this once in a while.",
-            "How easy was it having to do totally software related business without being a coder?",
-            "C",
-            "A year already?",
-            "Thanks for taking the time to write this. I\u2019ve had an idea for a bit and haven\u2019t done anything because I didn\u2019t have the time to work out the how for some this. Think I have everything I need now. Thanks!!",
-            "Good points about idea finding. As a S/W developer, I am often stuck at this single point to move forward.",
-            "Thanks for sharing OP. This was very inspiring. Did you still go through with hiring a developer to create the SaaS? You still needed to deliver stock picks based on what was trending on social media, right? How did you complete the analyses for your newsletters?\n\n&#x200B;\n\nThanks in advance."
-        ],
-        "num_comments": 204,
-        "sentiment": 0.21718991251803751,
-        "score": 2942.1718991251805
+        "score": 2943.938436667298
     },
     {
         "title": "I raised $4.4M in funding, had more than 500k users & $1M+ in revenue but the company still failed. Some lessons from a first-time CEO.",
-        "upvotes": 1346,
+        "upvotes": 1341,
         "comments": [
             "Appreciate the story. It\u2019s hard to share difficult experiences and it was kind of you to take the time to share your story. Lots of good lessons here. Good luck with your latest venture mate.",
             "I have a couple of newbie questions if you don't mind.\n\nWhat happens to your personal wealth? How much of your own money did you sink into this start-up? As a founder, did you pay yourself a salary, take drawings, or does this mean you've had zero income for 4 years?\n\nDid the liquidation go smoothly? Did you have any issues with personal guarantees, reckless trading, tax weirdness or shareholder fuckery? Did you have any IP that could be sold?\n\nHow are you managing, personally and financially, to enter in to a new venture with a failed start-up behind you? I mean, how are you paying for rent and food now with no income? Do you have an angel investor behind you or have you managed to get seed funding from somewhere, and has the failed start-up affected your ability to raise funding?",
@@ -1258,11 +1258,11 @@
         ],
         "num_comments": 157,
         "sentiment": 0.15758707197236643,
-        "score": 2850.5758707197238
+        "score": 2840.5758707197238
     },
     {
         "title": "How I went from $27 to $3K as a solopreneur still in a 9-5",
-        "upvotes": 988,
+        "upvotes": 987,
         "comments": [
             "Awesome ! Congratulations and i enjoyed reading the ups and downs. Great Story telling!",
             "Read this as \"went from 27k to 3k\" and was like hold up a minute lol",
@@ -1388,11 +1388,11 @@
         ],
         "num_comments": 280,
         "sentiment": 0.2846352029990976,
-        "score": 2258.846352029991
+        "score": 2256.846352029991
     },
     {
         "title": "Tech founders -- you're being lied to",
-        "upvotes": 730,
+        "upvotes": 727,
         "comments": [
             "[deleted]",
             ">\tthey are not going to respect, or consider your trashy looking mvp. People these days expect a certain level of polish and professionalism when it comes to software before they give it more than 3s of their time.\n\nI would argue that your definition of MVP is wrong. If it\u2019s not something a potential customer would consider it\u2019s not a \u201cviable\u201d product. As the market changes the definition of MVP changes, so aspiring entrepreneurs should do the minimum needed to produce a viable product, which may be a lot more than it was 2 or 5 years ago.\n\nThis applies whether you\u2019re playing the VC lottery or not.",
@@ -1485,66 +1485,11 @@
         ],
         "num_comments": 220,
         "sentiment": 0.10093105244650004,
-        "score": 1681.009310524465
-    },
-    {
-        "title": "It\u2019s FINALLY happening, My SaaS has made $6k in its first month!",
-        "upvotes": 676,
-        "comments": [
-            "Didn't you post this same thing a month ago?",
-            "Sick ad bro",
-            "How much do you spend on ads",
-            "Interested in knowing where you studied and whats ur experience!",
-            "Congrats! huge milestone.  I started my business in Jan 2023 and just broke $2m revenue in 2024 as a solopreneuer.  All it takes is 1 foot in front of the other, and then 2 years later you can turn around and see how far you've gone.  KEEP GOING!",
-            "Congratulations",
-            "Very nice work dude keep it up!",
-            "I thought all chrome extensions were free? Do you take orders via stripe/paypal by poping up some type of paywall when a user tries to access a premium feature ?",
-            "Thanks for sharing! Congratulations on all the success!",
-            "Congrats!",
-            "TIL a month has 8 weeks",
-            "report",
-            "Sick ad frr",
-            "Congrats on your success.\nWhat is your tech stack you used?",
-            "How many times are you going to milk this post.",
-            "Good job bro! :)",
-            "Congrats on the success. How do you handle the subscriptions ? Is there some easy setup with forecast or your own server ? And is there multiple extensions for each tier or do you run a check on membership type to whatever auth server you've got to see what to allow?\n\nI think I'll be making an extension next so I'm curious how it's setup. Had assumed all one codename and then a firebase backend is the go to",
-            "Are you using firebase for the backend?",
-            "Inspiring to hear you can find a need, fill it, and start generating revenue within a few weeks. Nice job!",
-            "Congratulations!!",
-            "Yeah, I love that feeling when you finally start hitting solo and it grows.  You sound just like me with the customer.",
-            "Congrats! No better feeling than having people happily use something you built",
-            "[removed]",
-            "Congrats!",
-            "Congratulations!!!",
-            "Pretty impressive, congrats!",
-            "WTF that\u2019s insane!! Gg",
-            "Your story is fantastic, I hope you will still generate a lot of income thanks to your extension.",
-            "What\u2019s the name of extension? Did I miss it in your post?",
-            "Well done \ud83d\udc4d\ud83c\udffb",
-            "Congratulations",
-            "Very happy for you my friend. What a wonderful Christmas gift for you to celebrate a great success. Keep going!",
-            "Very happy for you. Keep up the hard work champ! \ud83d\udcaa\ud83c\udffc",
-            "Congratulations on your success.  it's motivating.",
-            "What are the most used features",
-            "I am actually looking for something like that as i use chatgpt a lot. Where can i find this? You can send me a dm so people won\u2019t count this as advertisement.",
-            "**This is truly inspiring! The fact that you turned a simple idea into a product that resonates with users so deeply in just eight weeks is incredible. Your focus on customer feedback and providing value is definitely a major factor in your success. \ud83d\ude80**\n\nI'm also working on a SaaS platform\u2014focused on helping solopreneurs find co-founders by testing ideas through pilot projects to validate chemistry and traction. It\u2019s early days, but reading stories like yours gives me a ton of motivation to push forward.\n\nThanks for sharing your journey and lessons learned. Wishing you even more success as you scale! \ud83d\ude4c",
-            "Congrads dude. Awesome achievement",
-            "you need to say how you got users",
-            ">It\u2019s finally happening\n\nAnd\n\n>it\u2019s first month\n\nNice work LLM",
-            "Does anyone want to trade back links to boost our website SEO?",
-            "What\u2019s the name of the extension?",
-            "How did you market your app given that it was organic?",
-            "That's great!\n\n\nHow did you manage your time at first to develop it as a hobby while working?",
-            "Congrats bro! Just keep up the great works :)",
-            "Nice work! (Pls send name in dm, want to try it)"
-        ],
-        "num_comments": 109,
-        "sentiment": 0.1943592563837129,
-        "score": 1462.9435925638372
+        "score": 1675.009310524465
     },
     {
         "title": "Series A round Killed my startup!",
-        "upvotes": 660,
+        "upvotes": 663,
         "comments": [
             "I have been telling ppl for years that bootstrapping is key.",
             "This is all very vague so it\u2019s hard to tell how the Series A \u201ckilled\u201d your company. If your TAM is small, that means you better be happy with a small business. You can be a big fish in a little pond, or move to a bigger pond.\n\nSounds like a misalignment from the get go, even before series A. You wanted a small company that could just sustain itself & profits, your board wanted a traditional tech unicorn. These are discussions that should have been had at seed stage.\n\nI think if anything you settled too early on PMF without challenging what it means in the long run. Just because you have customers and traction doesn\u2019t necessarily mean it\u2019s the right thing to do.\n\nMy current company just went through this. We were too intoxicated with the fact that people loved our product to challenge what it meant for us in the long run. Small market, slow adopters. It took us a year to pivot away, and now we have a killer product in a practically infinite market, plenty of hungry early adopters. But that pivot was hard fought, cost us some good employees, and tbh had everyone down for a while. It was the right decision.\n\nPS: congrats on the momentum!",
@@ -1608,11 +1553,66 @@
         ],
         "num_comments": 134,
         "sentiment": 0.153871335464312,
-        "score": 1455.538713354643
+        "score": 1461.538713354643
+    },
+    {
+        "title": "It\u2019s FINALLY happening, My SaaS has made $6k in its first month!",
+        "upvotes": 674,
+        "comments": [
+            "Didn't you post this same thing a month ago?",
+            "Sick ad bro",
+            "How much do you spend on ads",
+            "Interested in knowing where you studied and whats ur experience!",
+            "Congrats! huge milestone.  I started my business in Jan 2023 and just broke $2m revenue in 2024 as a solopreneuer.  All it takes is 1 foot in front of the other, and then 2 years later you can turn around and see how far you've gone.  KEEP GOING!",
+            "Congratulations",
+            "Very nice work dude keep it up!",
+            "I thought all chrome extensions were free? Do you take orders via stripe/paypal by poping up some type of paywall when a user tries to access a premium feature ?",
+            "Thanks for sharing! Congratulations on all the success!",
+            "Congrats!",
+            "TIL a month has 8 weeks",
+            "report",
+            "Sick ad frr",
+            "Congrats on your success.\nWhat is your tech stack you used?",
+            "How many times are you going to milk this post.",
+            "Good job bro! :)",
+            "Congrats on the success. How do you handle the subscriptions ? Is there some easy setup with forecast or your own server ? And is there multiple extensions for each tier or do you run a check on membership type to whatever auth server you've got to see what to allow?\n\nI think I'll be making an extension next so I'm curious how it's setup. Had assumed all one codename and then a firebase backend is the go to",
+            "Are you using firebase for the backend?",
+            "Inspiring to hear you can find a need, fill it, and start generating revenue within a few weeks. Nice job!",
+            "Congratulations!!",
+            "Yeah, I love that feeling when you finally start hitting solo and it grows.  You sound just like me with the customer.",
+            "Congrats! No better feeling than having people happily use something you built",
+            "[removed]",
+            "Congrats!",
+            "Congratulations!!!",
+            "Pretty impressive, congrats!",
+            "WTF that\u2019s insane!! Gg",
+            "Your story is fantastic, I hope you will still generate a lot of income thanks to your extension.",
+            "What\u2019s the name of extension? Did I miss it in your post?",
+            "Well done \ud83d\udc4d\ud83c\udffb",
+            "Congratulations",
+            "Very happy for you my friend. What a wonderful Christmas gift for you to celebrate a great success. Keep going!",
+            "Very happy for you. Keep up the hard work champ! \ud83d\udcaa\ud83c\udffc",
+            "Congratulations on your success.  it's motivating.",
+            "What are the most used features",
+            "I am actually looking for something like that as i use chatgpt a lot. Where can i find this? You can send me a dm so people won\u2019t count this as advertisement.",
+            "**This is truly inspiring! The fact that you turned a simple idea into a product that resonates with users so deeply in just eight weeks is incredible. Your focus on customer feedback and providing value is definitely a major factor in your success. \ud83d\ude80**\n\nI'm also working on a SaaS platform\u2014focused on helping solopreneurs find co-founders by testing ideas through pilot projects to validate chemistry and traction. It\u2019s early days, but reading stories like yours gives me a ton of motivation to push forward.\n\nThanks for sharing your journey and lessons learned. Wishing you even more success as you scale! \ud83d\ude4c",
+            "Congrads dude. Awesome achievement",
+            "you need to say how you got users",
+            ">It\u2019s finally happening\n\nAnd\n\n>it\u2019s first month\n\nNice work LLM",
+            "Does anyone want to trade back links to boost our website SEO?",
+            "What\u2019s the name of the extension?",
+            "How did you market your app given that it was organic?",
+            "That's great!\n\n\nHow did you manage your time at first to develop it as a hobby while working?",
+            "Congrats bro! Just keep up the great works :)",
+            "Nice work! (Pls send name in dm, want to try it)"
+        ],
+        "num_comments": 109,
+        "sentiment": 0.1943592563837129,
+        "score": 1458.9435925638372
     },
     {
         "title": "We made $325k in 2023 from AI products, starting from 0, with no-code, no funding and no audience",
-        "upvotes": 510,
+        "upvotes": 516,
         "comments": [
             "Great! Another post about an \"AI product\" without having a clue of what it does. My god I miss the NFT scam days. At least there you knew what people were selling.",
             "how exactly did you manage to pre-sell access to an MVP? Would love to hear more on this",
@@ -1678,7 +1678,7 @@
         ],
         "num_comments": 251,
         "sentiment": 0.20911731369723172,
-        "score": 1273.0911731369724
+        "score": 1285.0911731369724
     },
     {
         "title": "I Started with $50 and Pursued 27 Different Business Ideas Over 6 Years\u2026 AMA",
@@ -1756,83 +1756,8 @@
         "score": 1264.9760944861039
     },
     {
-        "title": "I Worked Hard all my Life. I Regret it.",
-        "upvotes": 445,
-        "comments": [
-            "While I think your points are valid, working hard and smart aren\u2019t mutually exclusive; one can do both. \n\nI recognise myself in the last point, when I started with development. It\u2019s a usual noob-trait, similar to when little children just have learnt something and don\u2019t want anyone\u2019s help. I can\u201d-behaviour. Though, It\u2019s good to exhibit this to a degree to increase your learning, but it needs to be on a moderate level. \n\nNot using any library is a bit extreme (and a lie as you often need to use standard libraries in most languages)",
-            "Good post.\n\nDepends on what \u201chard work\u201d means. \n\nI\u2019ve failed a lot, and have made enough $ to never work. \n\nWhat I know for sure: if you don\u2019t enjoy what you do every day you\u2019ll never actually be able to keep up with the competitors who do what you do out of utter joy. You just won\u2019t. \n\nThis said, what\u2019s \u201chard work\u201d? \n\nFor me it\u2019s both (1) doing admin, \u201cbusiness dishes\u201d, or getting around to tough decisions, things I *dont like*\n\nAnd (2), if I end the week having been packed with exciting meetings, deals moved forward, hiring strides forward, maybe I got out a pitch late one night bc it was on my desk to finish, etc. That\u2019s hard work too. It was fun and I did it for me.\n\nI think generally trying to do an endorphin pull forward is a winning strategy to help nibble on things needing to be done, to plow ahead when you\u2019re about to give up (ex \u201cgetting pumped at being 2% more of the way there when doing 3 hrs on something\u201d or acknowledging the pain you avoided by doing what you did - that\u2019s a mini reward).\n\nI wasted 7 years on a bad business before fixing it for good. Should have learned faster and been more *intellectually honest with myself*. There\u2019s a huge difference between iterating to win while focus my on the same end goal vs quitting all the time at the first sign of adversity and then totally pivoting. \n\nFinally I learned and I did something else that exploded immediately and has been a hoot.",
-            "All of your numbered points are valid but I think you are actually backward when it comes to founders looking for the \"hard\" way vs the \"easy\" way. So many founders, yourself included, take the easier and more comfortable path of building what you like instead of what people want/need. It's a ton of hard work to:\n\n1. Research and understand consumer trends and behavior\n2. Validate ideas and actually talk to end users\n3. Get familiar and proficient with 3rd party code, tools, libraries, etc.\n\nIt's more about being willing to do the uncomfortable, frustrating, and difficult things you don't want to do than working hard vs smart. Very few people are consistently successful without working hard and smart.",
-            "How did you validated your ideas?",
-            "Working a 9-5 as an employee is for Schmucks. Give u your life to make money for some dick head who passes you the crumbs off his table and you handover half your crumbs to the tax man .. FUUUUUUCK THAT for life \ud83e\udd21\ud83e\udd21\ud83e\udd21\ud83e\udd21\ud83d\udc40\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83d\ude4c",
-            "You seem to come to the conclusion that work 'hard' and 'smart' are opposites when they are both independent variable. More like the x and y axis. \n\nYou can work both hard and smart, lazy and smart, hard and dumb, or lazy and dumb.",
-            "I am in this boat. My quality of work and work ethic are second to absolutely nobody in my company. But they don't want someone like me working for them. Someone who knows their value, will fight to continually increase their value and work towards a better work environment. They want someone who is just happy to be there.",
-            "Wow, your honesty is truly refreshing. It's a tough realization to come to, but it sounds like you've learned some invaluable lessons along the way. Killing your ego, validating ideas before diving in, and leveraging existing resources are all game-changers. Thanks for sharing your journey and wisdom with us. Here's to working smarter, not just harder!",
-            "It's toxic entrepreneurship is what it is. You can work hard all your life and still not be satisfied with the end result. It's absout having the red thread in check. If you work smart, you forget that you sometimes need to bruteforce some situations though, so it does both ways. The truth is always in the middle.",
-            "[removed]",
-            "I\u2019d rather die knowing I tried to do something entrepreneurial (hard work vs smart work debate aside) than to have regretted not taking a risk etc.",
-            "Fair points.  But that's different for everyone.  I worked crazy hard to launch my business and it's been TOTALLY worth it.  I'm making $75K a year just on what my employees produce.  I make $2k annually just from selling digital products that require about an hour of work a year to update.  When I work in my business, I'm making over $500 per hour.  \n\nWas it easy to get here?  Heck no.  It was a TON of work, investment, development, and grinding.  But was it worth it?  Absolutely.",
-            "It took me a while to accept thar working harder would solve my problems. I would brute force everything with just working more. It's so important to step back, create systems, and revist them.",
-            "do you feel fulfillment?",
-            "Hard lessons learned, smarter work beats harder work, always.",
-            "[deleted]",
-            "This is great! I can relate to it",
-            "Yeah. I heard rupaul say \u201cdon\u2019t reinvent the wheel, just be authentic as you roll it.\u201d\n\nHard work in the form of commitment, dedication, and consistency are required for the success of anything.",
-            "Hard work or easy work didn\u2019t get me anything yet regarding personal projects. \nI think most of this stuff is mainly luck or a better network",
-            "Working hard is OK\n\nBut you should know that you want to",
-            "Interesting",
-            "The all green nature of entrepreneurship pushed by social media fake gurus/founders needs to be checked. It's just all fomo at this point, and anyone working 9-5 with a cool team on something they'd like to should not be downgraded. When people talk about 9-5 jobs, they forget there are tiers associated with jobs as well. Satya Nadella/Tim Cook are also 9-5 people fyi.",
-            "Been there, done that. It took me a while to realize that grinding away wasn't always the answer. And don't even get me started on reinventing the wheel. I'm guilty as charged. But hey, recognizing these things is half the battle. Now, we can adjust and start working smarter, not harder. It's all about finding the perfect balance (like all things should be :) ).",
-            "What a journey! It's incredible how much growth comes when we check our ego at the door. I've been there too, pushing to prove a point more to myself than the market. And like you, over time I learned that the market's voice is the one to heed.\n\nYour point about validation echoes so strongly with my own experience\u2014gone are the days of 'build it and they will come.' Today, my mantra is 'validate, then build.' It saves not only hours but sanity.\n\nAnd let\u2019s talk about not reinventing the wheel! Leaning on existing tools has been a game-changer for me as well. It was a hard pill to swallow, admitting that sometimes the best code is the one you don't write. But it freed up time to focus on what really moves the needle: understanding and serving the customer.\n\nThe moral of your story is a lesson for all of us in the trenches of entrepreneurship. Work smart. Use the tools at your disposal. Listen to your customers. And maybe, just maybe, we can avoid a few of those sleepless nights.\u00a0",
-            "Good post",
-            "Did you work harder in the job or on yourself?",
-            "i struggle to weigh the following tension: have you made this mistake for a long enough time, as the post suggests, that it has real meaning? if so, how is it possible that you did this \"all my life\" without realizing it until now? i can't tell if you are 25 years old, or 50.",
-            "so what is your tech stack , what boilerplates and libraries?\n\nHow do you validate?",
-            "Great post, How did you killed your Ego, I'm lil bit stuck in that stage. any good resources or any tips on that please.",
-            "Never work hard, especially for someone else. Always work smarter, innovate ways and create better systems.",
-            "You can do both though so your moral takeaway doesnt really make sense lol\u00a0",
-            "What tools do you use to build stuff now?",
-            "This is really spot on advice, especially in the scope of being proud and reinventing the wheel. Most everything is in place for you to start your idea, automate and don't be too proud of using libraries.",
-            "It works with u r luck and work",
-            "Straight up facts here. Looks like you have the right mindset now. This is a good lesson for us all.",
-            "Great advicice. It's espcially important to find work that motivates you as well",
-            "My son's godfather was recently inducted into his industry's Hall of Fame. An incredibly prestigious honor of course. I texted him a congratulations when I heard the news and his reply shocked me.\n\nHe said, \"My career has been a curse. I've neglected everyone I care about, including you and your son because I was always focused on my career. I missed every important moment with my children. I've been twice divorced. The accolades are nice but it was not worth it and I can't get that time back.\"\n\nIt made me hug my kids a little tighter when I put them to bed.",
-            "I think you\u2019ve triggered a lot people in here, to which it\u2019s going over their heads and they\u2019re taking it too literally.",
-            "I have a project, and trying to seek validation. What to do?",
-            "What most people get wrong is #2. \n\nBusiness are created by talking to people > finding their pain > talking to more people > see if they have the same pain > boom business",
-            "\"Don't live to work, work to live\" but work smarter not harder if you wanna live real good...",
-            "Great advice",
-            "Yeah hell yeah, ive stopped 'trying' so much better",
-            "Ego check and validation are indeed game-changers.",
-            "These are the exact 3 reasons that all of my father's businesses have failed. It's interesting to see it written out like this.",
-            "Thank you for sharing your journey and hard-earned insights. Your honesty and willingness to reflect on your experiences are truly inspiring. It's a powerful reminder that success isn't just about working hard, but also about working smart and being open to learning and adapting along the way. Your story serves as a valuable reminder for all of us to prioritize self-awareness, validation, and humility in our pursuits. Keep shining your light and sharing your wisdom",
-            "My dad always said to me about business \u201cremember son, you don\u2019t need to reinvent the wheel\u201d and I\u2019ve always thought that was the best advice he ever gave me.",
-            "Would you say that you have a \u201cfixed or \u201clearning\u201d mindset?",
-            "this ^",
-            "That's why I don't work hard. Thanks for validating my laziness.",
-            "Im still working at jobs that will  have no significants when it falls under wages and pay. \nI work my ass off day in and day out while still in high school, Thxs to this new job I\u2019m actually able to have off days so I can just relax and destress. But bills are getting higher and higher and I can\u2019t keep up anymore. I just started dibbling into drop shipping for side work and other projects to generate a passive income. Tbh.. I need/want financial advice and to expand my knowledge of how to get out of a 9-5 job. If anyone can provide any info I\u2019m all ears.\n\nP.s new to Reddit, first post",
-            "The importance of ego death to successful entrepreneurship is wildly underplayed far too often because a few super outliers like Musk become so successful they can't lose their fortunes or companies really anymore, and their egos return and become massive.\n\nLook up old interviews of Musk when he was just a nerd at a startup without hair transplants...he seems impossibly demure compared to the Musk the world knows today.\n\n&#x200B;\n\nBut in actual real entrepreneurship, ego death is often immensely necessary to find success.",
-            "Totally agree, thanks for sharing. \n\nI think. The balance with learning, rest and personal life is important. \n\nLearning helps to reevaluate your approach and increase the price of your time. Or come up with an idea that would help you sell something instead of your time. \n\nAnother thing is that when you have some fulfilling hobbies and relationships, your brain rewires, rests and generates better ideas. So, all this 16-hour workdays usually bring nothing good except for health problems.",
-            "It\u2019s easier I make a lot of money in a short amount of time than it is to make a short amount over along period of time (job) so don\u2019t EVER worry about money. Worry about doing the thing that makes you money.",
-            "Totally agree, I developed a SaaS product with a team of 3 engineers. We were 18 months in and progress was slow due to my focus on building every function from scratch including billing system, a competitor came to market with a full fledged product similar to ours based on Laravel as a backend. Needless to say, I realised this and switched course in the second year and in 8 months we had a fully working product and onboarding clients taking revenue. Lesson learned.",
-            "Best example of vulnerability in weeks. Love this.",
-            "Working hard is just one of the conditions of success. There are many other factors that affect your chance of success, however, I never saw a successful person who is lazy. Working hard is not enough, but it's the backbones of other factors.\n\nThere is a term called \"deliberate practice\" in the book 'Talent is overated'. Reading it, you'll find the complete answers to your theory. In short, people need to work hard 'the right way', or in other words, constantly challenge their ability to improve and learn new things during their daily hard work everyday.  Only doing that you can achieve success, otherwise, say, working hard 16 hours/day as an Uber driver or a fast food restaurant server till you die does not bring you a prosperious life at all.",
-            "It is better to do something and regret it than to regret not doing it. We do many irrational things that have fatal consequences. But this is life. You've come a long way and realized that. That's cool.",
-            "Ego is a killer. Most battle it unknowingly their whole life.",
-            "I just closed a business I started in 2007. Built it up for 9 years and sold it in 2016, but didn't get much out of it. The next iteration of the company never made a profit and took all my savings. I closed the doors on it yesterday. \n\nThe hard work and reinventing the wheel is totally understandable. It was pure ego and the lack of personal honesty that kept me from closing it when I wasn't broke.\n\nIf there's anything to learn from what many business owners I've spoken to about this, it's keep your eyes open and ditch the ego. There's nothing wrong with hard work, but hard work just to satisfy one's self is usually a dead end.\n\nFigure out the lessons learned, put the ego to bed and keep moving forward.",
-            "Thanks for sharing!\n\nQuestion about your second point: how do you validate?",
-            "Tbh disagreed with a lot of this advice but not gonna deny you\u2019re more successful than I. I just think that working hard is a necessary phase in the process that gives us the privlidge to focus solely on working smart\u00a0",
-            "work as little as possible for the lifestyle you want, and be willing to do the smart things to make your life better. capitalism is a fraud, working harder does not always pay off.",
-            "My daughter taught me a valuable lesson last week. She was recording a Barney video and I said, Barney????? \n\nAnd she said, Shrug - it's the trend. Gotta go with the trends. \n\nF'in kids and their infinite wisdom, lol",
-            "Is this subreddit becoming LinkedIn ?",
-            "Womp womp i don't care"
-        ],
-        "num_comments": 126,
-        "sentiment": 0.18596243871758408,
-        "score": 1017.8596243871758
-    },
-    {
         "title": "I'm 26 and started a successful SaaS business with 73 customers & $22k in revenue. I spent none of my own money, it wasn't my idea, and I don't know how to code. Not possible? I'll prove it to you..AMA",
-        "upvotes": 297,
+        "upvotes": 298,
         "comments": [
             "THIS is what I want to see more from this subreddit. \nIf you had nothing at the start, how did you get the idea? and if you couldn't code, how did you get the money to hire developers?",
             "How did you convince people to pay for a product before it existed?",
@@ -1915,11 +1840,86 @@
         ],
         "num_comments": 422,
         "sentiment": 0.16626987846893984,
-        "score": 1017.6626987846894
+        "score": 1019.6626987846894
+    },
+    {
+        "title": "I Worked Hard all my Life. I Regret it.",
+        "upvotes": 441,
+        "comments": [
+            "While I think your points are valid, working hard and smart aren\u2019t mutually exclusive; one can do both. \n\nI recognise myself in the last point, when I started with development. It\u2019s a usual noob-trait, similar to when little children just have learnt something and don\u2019t want anyone\u2019s help. I can\u201d-behaviour. Though, It\u2019s good to exhibit this to a degree to increase your learning, but it needs to be on a moderate level. \n\nNot using any library is a bit extreme (and a lie as you often need to use standard libraries in most languages)",
+            "Good post.\n\nDepends on what \u201chard work\u201d means. \n\nI\u2019ve failed a lot, and have made enough $ to never work. \n\nWhat I know for sure: if you don\u2019t enjoy what you do every day you\u2019ll never actually be able to keep up with the competitors who do what you do out of utter joy. You just won\u2019t. \n\nThis said, what\u2019s \u201chard work\u201d? \n\nFor me it\u2019s both (1) doing admin, \u201cbusiness dishes\u201d, or getting around to tough decisions, things I *dont like*\n\nAnd (2), if I end the week having been packed with exciting meetings, deals moved forward, hiring strides forward, maybe I got out a pitch late one night bc it was on my desk to finish, etc. That\u2019s hard work too. It was fun and I did it for me.\n\nI think generally trying to do an endorphin pull forward is a winning strategy to help nibble on things needing to be done, to plow ahead when you\u2019re about to give up (ex \u201cgetting pumped at being 2% more of the way there when doing 3 hrs on something\u201d or acknowledging the pain you avoided by doing what you did - that\u2019s a mini reward).\n\nI wasted 7 years on a bad business before fixing it for good. Should have learned faster and been more *intellectually honest with myself*. There\u2019s a huge difference between iterating to win while focus my on the same end goal vs quitting all the time at the first sign of adversity and then totally pivoting. \n\nFinally I learned and I did something else that exploded immediately and has been a hoot.",
+            "All of your numbered points are valid but I think you are actually backward when it comes to founders looking for the \"hard\" way vs the \"easy\" way. So many founders, yourself included, take the easier and more comfortable path of building what you like instead of what people want/need. It's a ton of hard work to:\n\n1. Research and understand consumer trends and behavior\n2. Validate ideas and actually talk to end users\n3. Get familiar and proficient with 3rd party code, tools, libraries, etc.\n\nIt's more about being willing to do the uncomfortable, frustrating, and difficult things you don't want to do than working hard vs smart. Very few people are consistently successful without working hard and smart.",
+            "How did you validated your ideas?",
+            "Working a 9-5 as an employee is for Schmucks. Give u your life to make money for some dick head who passes you the crumbs off his table and you handover half your crumbs to the tax man .. FUUUUUUCK THAT for life \ud83e\udd21\ud83e\udd21\ud83e\udd21\ud83e\udd21\ud83d\udc40\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83d\ude4c",
+            "You seem to come to the conclusion that work 'hard' and 'smart' are opposites when they are both independent variable. More like the x and y axis. \n\nYou can work both hard and smart, lazy and smart, hard and dumb, or lazy and dumb.",
+            "I am in this boat. My quality of work and work ethic are second to absolutely nobody in my company. But they don't want someone like me working for them. Someone who knows their value, will fight to continually increase their value and work towards a better work environment. They want someone who is just happy to be there.",
+            "Wow, your honesty is truly refreshing. It's a tough realization to come to, but it sounds like you've learned some invaluable lessons along the way. Killing your ego, validating ideas before diving in, and leveraging existing resources are all game-changers. Thanks for sharing your journey and wisdom with us. Here's to working smarter, not just harder!",
+            "It's toxic entrepreneurship is what it is. You can work hard all your life and still not be satisfied with the end result. It's absout having the red thread in check. If you work smart, you forget that you sometimes need to bruteforce some situations though, so it does both ways. The truth is always in the middle.",
+            "[removed]",
+            "I\u2019d rather die knowing I tried to do something entrepreneurial (hard work vs smart work debate aside) than to have regretted not taking a risk etc.",
+            "Fair points.  But that's different for everyone.  I worked crazy hard to launch my business and it's been TOTALLY worth it.  I'm making $75K a year just on what my employees produce.  I make $2k annually just from selling digital products that require about an hour of work a year to update.  When I work in my business, I'm making over $500 per hour.  \n\nWas it easy to get here?  Heck no.  It was a TON of work, investment, development, and grinding.  But was it worth it?  Absolutely.",
+            "It took me a while to accept thar working harder would solve my problems. I would brute force everything with just working more. It's so important to step back, create systems, and revist them.",
+            "do you feel fulfillment?",
+            "Hard lessons learned, smarter work beats harder work, always.",
+            "[deleted]",
+            "This is great! I can relate to it",
+            "Yeah. I heard rupaul say \u201cdon\u2019t reinvent the wheel, just be authentic as you roll it.\u201d\n\nHard work in the form of commitment, dedication, and consistency are required for the success of anything.",
+            "Hard work or easy work didn\u2019t get me anything yet regarding personal projects. \nI think most of this stuff is mainly luck or a better network",
+            "Working hard is OK\n\nBut you should know that you want to",
+            "Interesting",
+            "The all green nature of entrepreneurship pushed by social media fake gurus/founders needs to be checked. It's just all fomo at this point, and anyone working 9-5 with a cool team on something they'd like to should not be downgraded. When people talk about 9-5 jobs, they forget there are tiers associated with jobs as well. Satya Nadella/Tim Cook are also 9-5 people fyi.",
+            "Been there, done that. It took me a while to realize that grinding away wasn't always the answer. And don't even get me started on reinventing the wheel. I'm guilty as charged. But hey, recognizing these things is half the battle. Now, we can adjust and start working smarter, not harder. It's all about finding the perfect balance (like all things should be :) ).",
+            "What a journey! It's incredible how much growth comes when we check our ego at the door. I've been there too, pushing to prove a point more to myself than the market. And like you, over time I learned that the market's voice is the one to heed.\n\nYour point about validation echoes so strongly with my own experience\u2014gone are the days of 'build it and they will come.' Today, my mantra is 'validate, then build.' It saves not only hours but sanity.\n\nAnd let\u2019s talk about not reinventing the wheel! Leaning on existing tools has been a game-changer for me as well. It was a hard pill to swallow, admitting that sometimes the best code is the one you don't write. But it freed up time to focus on what really moves the needle: understanding and serving the customer.\n\nThe moral of your story is a lesson for all of us in the trenches of entrepreneurship. Work smart. Use the tools at your disposal. Listen to your customers. And maybe, just maybe, we can avoid a few of those sleepless nights.\u00a0",
+            "Good post",
+            "Did you work harder in the job or on yourself?",
+            "i struggle to weigh the following tension: have you made this mistake for a long enough time, as the post suggests, that it has real meaning? if so, how is it possible that you did this \"all my life\" without realizing it until now? i can't tell if you are 25 years old, or 50.",
+            "so what is your tech stack , what boilerplates and libraries?\n\nHow do you validate?",
+            "Great post, How did you killed your Ego, I'm lil bit stuck in that stage. any good resources or any tips on that please.",
+            "Never work hard, especially for someone else. Always work smarter, innovate ways and create better systems.",
+            "You can do both though so your moral takeaway doesnt really make sense lol\u00a0",
+            "What tools do you use to build stuff now?",
+            "This is really spot on advice, especially in the scope of being proud and reinventing the wheel. Most everything is in place for you to start your idea, automate and don't be too proud of using libraries.",
+            "It works with u r luck and work",
+            "Straight up facts here. Looks like you have the right mindset now. This is a good lesson for us all.",
+            "Great advicice. It's espcially important to find work that motivates you as well",
+            "My son's godfather was recently inducted into his industry's Hall of Fame. An incredibly prestigious honor of course. I texted him a congratulations when I heard the news and his reply shocked me.\n\nHe said, \"My career has been a curse. I've neglected everyone I care about, including you and your son because I was always focused on my career. I missed every important moment with my children. I've been twice divorced. The accolades are nice but it was not worth it and I can't get that time back.\"\n\nIt made me hug my kids a little tighter when I put them to bed.",
+            "I think you\u2019ve triggered a lot people in here, to which it\u2019s going over their heads and they\u2019re taking it too literally.",
+            "I have a project, and trying to seek validation. What to do?",
+            "What most people get wrong is #2. \n\nBusiness are created by talking to people > finding their pain > talking to more people > see if they have the same pain > boom business",
+            "\"Don't live to work, work to live\" but work smarter not harder if you wanna live real good...",
+            "Great advice",
+            "Yeah hell yeah, ive stopped 'trying' so much better",
+            "Ego check and validation are indeed game-changers.",
+            "These are the exact 3 reasons that all of my father's businesses have failed. It's interesting to see it written out like this.",
+            "Thank you for sharing your journey and hard-earned insights. Your honesty and willingness to reflect on your experiences are truly inspiring. It's a powerful reminder that success isn't just about working hard, but also about working smart and being open to learning and adapting along the way. Your story serves as a valuable reminder for all of us to prioritize self-awareness, validation, and humility in our pursuits. Keep shining your light and sharing your wisdom",
+            "My dad always said to me about business \u201cremember son, you don\u2019t need to reinvent the wheel\u201d and I\u2019ve always thought that was the best advice he ever gave me.",
+            "Would you say that you have a \u201cfixed or \u201clearning\u201d mindset?",
+            "this ^",
+            "That's why I don't work hard. Thanks for validating my laziness.",
+            "Im still working at jobs that will  have no significants when it falls under wages and pay. \nI work my ass off day in and day out while still in high school, Thxs to this new job I\u2019m actually able to have off days so I can just relax and destress. But bills are getting higher and higher and I can\u2019t keep up anymore. I just started dibbling into drop shipping for side work and other projects to generate a passive income. Tbh.. I need/want financial advice and to expand my knowledge of how to get out of a 9-5 job. If anyone can provide any info I\u2019m all ears.\n\nP.s new to Reddit, first post",
+            "The importance of ego death to successful entrepreneurship is wildly underplayed far too often because a few super outliers like Musk become so successful they can't lose their fortunes or companies really anymore, and their egos return and become massive.\n\nLook up old interviews of Musk when he was just a nerd at a startup without hair transplants...he seems impossibly demure compared to the Musk the world knows today.\n\n&#x200B;\n\nBut in actual real entrepreneurship, ego death is often immensely necessary to find success.",
+            "Totally agree, thanks for sharing. \n\nI think. The balance with learning, rest and personal life is important. \n\nLearning helps to reevaluate your approach and increase the price of your time. Or come up with an idea that would help you sell something instead of your time. \n\nAnother thing is that when you have some fulfilling hobbies and relationships, your brain rewires, rests and generates better ideas. So, all this 16-hour workdays usually bring nothing good except for health problems.",
+            "It\u2019s easier I make a lot of money in a short amount of time than it is to make a short amount over along period of time (job) so don\u2019t EVER worry about money. Worry about doing the thing that makes you money.",
+            "Totally agree, I developed a SaaS product with a team of 3 engineers. We were 18 months in and progress was slow due to my focus on building every function from scratch including billing system, a competitor came to market with a full fledged product similar to ours based on Laravel as a backend. Needless to say, I realised this and switched course in the second year and in 8 months we had a fully working product and onboarding clients taking revenue. Lesson learned.",
+            "Best example of vulnerability in weeks. Love this.",
+            "Working hard is just one of the conditions of success. There are many other factors that affect your chance of success, however, I never saw a successful person who is lazy. Working hard is not enough, but it's the backbones of other factors.\n\nThere is a term called \"deliberate practice\" in the book 'Talent is overated'. Reading it, you'll find the complete answers to your theory. In short, people need to work hard 'the right way', or in other words, constantly challenge their ability to improve and learn new things during their daily hard work everyday.  Only doing that you can achieve success, otherwise, say, working hard 16 hours/day as an Uber driver or a fast food restaurant server till you die does not bring you a prosperious life at all.",
+            "It is better to do something and regret it than to regret not doing it. We do many irrational things that have fatal consequences. But this is life. You've come a long way and realized that. That's cool.",
+            "Ego is a killer. Most battle it unknowingly their whole life.",
+            "I just closed a business I started in 2007. Built it up for 9 years and sold it in 2016, but didn't get much out of it. The next iteration of the company never made a profit and took all my savings. I closed the doors on it yesterday. \n\nThe hard work and reinventing the wheel is totally understandable. It was pure ego and the lack of personal honesty that kept me from closing it when I wasn't broke.\n\nIf there's anything to learn from what many business owners I've spoken to about this, it's keep your eyes open and ditch the ego. There's nothing wrong with hard work, but hard work just to satisfy one's self is usually a dead end.\n\nFigure out the lessons learned, put the ego to bed and keep moving forward.",
+            "Thanks for sharing!\n\nQuestion about your second point: how do you validate?",
+            "Tbh disagreed with a lot of this advice but not gonna deny you\u2019re more successful than I. I just think that working hard is a necessary phase in the process that gives us the privlidge to focus solely on working smart\u00a0",
+            "work as little as possible for the lifestyle you want, and be willing to do the smart things to make your life better. capitalism is a fraud, working harder does not always pay off.",
+            "My daughter taught me a valuable lesson last week. She was recording a Barney video and I said, Barney????? \n\nAnd she said, Shrug - it's the trend. Gotta go with the trends. \n\nF'in kids and their infinite wisdom, lol",
+            "Is this subreddit becoming LinkedIn ?",
+            "Womp womp i don't care"
+        ],
+        "num_comments": 126,
+        "sentiment": 0.18596243871758408,
+        "score": 1009.8596243871758
     },
     {
         "title": "How to start finding SAAS niche and implement SAAS idea? For anyone looking to build $1K MRR to $10K MRR",
-        "upvotes": 396,
+        "upvotes": 394,
         "comments": [
             "Really interesting share, thanks.\n\nI have a burning question: why sell the ideas when you can implement them yourself to make the MRR itself?",
             "Any reason you're not including typeform? it probably has higher ARR than gravity.",
@@ -1952,11 +1952,54 @@
         ],
         "num_comments": 67,
         "sentiment": 0.2230807659639531,
-        "score": 861.2308076596395
+        "score": 857.2308076596395
+    },
+    {
+        "title": "The moments I realized being a corporate employee wasn\u2019t for me",
+        "upvotes": 364,
+        "comments": [
+            "Don't tie yourself to a shit hole and let them control you. Many people have been in the same place and I'm glad you find your way away from it",
+            "100% agree with you bud \n\nI had the same thing working in banking\u2026 they did that big sale contest and kept doing a big show around it\u2026. Every morning showing us who did what and how to get better\u2026..I got second on 30 people the price was 1000$ \u2026.after taxes it gave me like 500$ net lol the first guy got a lunch with a Vp \ud83d\ude02 I couldn\u2019t wrap my head around the fact that we made them so much money and the reward was so small\u2026..\n\nI have my own cie now and when I decide to get into sale mode I make that in one hour \u2026. On a bad day.\n\nBut let\u2019s not forget some people are happy that way\u2026. They like the structure behind it and they takes\nprides telling people they work for a bank or a big company \u2026..Don\u2019t ask me why !! but I guess everybody has a place \u2026..as long as they are happy",
+            "In my career I have found multiple 6 and 7 figure errors in systems, reporting, billing, scope adherence. Nearly all of them have netted my employers many times my yearly salary. I am not a particularly gifted excel user or diligent reader of scopes or contracts. Unfortunately many people in leadership at past employers seem to be worse. \n\nThe most egregious was finding reporting errors that under reported achievement to a client of our product by 5x resulting in an additional seven figure payout to close out the fourth quarter a few years ago. The leader I rolled up to used that achievement as the cherry on top to be named full partner PE firm that owned the company. I was told they didn\u2019t have money for an annual raise as I\u2019d been there less than six months\u2026",
+            "It's actually unreal how much of management are just manipulative narcissists that exploit people smarter than them.",
+            "I had the same situation a few times whed I worked in e-commerce, call-center, manufacturer!!! (three times), self employed... I just can't find good work position that change the game.",
+            "There is a book called \"The Peter Principle\" that explains this very well, unfortunately for me I read it once I quit in the same manner as yours. Excellent read for those kind of individuals not suited for pigeon hole corporate America.",
+            "Great post!",
+            "You should quit the job.... Or, be enslaved...",
+            "I agree. It took me a while to find my spot but breaking out as a prisoner of minimum wage is a blessing.",
+            "Feel like I\u2019ve been preparing a long time to start \u2018throwing some haymakers\u2019 myself. Thanks for the positive boost!! \ud83e\udd4a",
+            "Hello, you are right, I experienced the same thing, except that the Bugs and flaws I didn't say anything \ud83d\ude1c, I resigned and I exploited the flaws to my advantage \ud83d\ude09",
+            "I was employee 6 at a tiny startup.  I joined because the company had shot to $1m arr in a year.  We were aggressively scaling because companies wanted the thing we were selling.  My first month there we added $250k to ARR.\n\nThe ceo decided to pivot because, well, nobody really understands.  The whole team was like... what the actual fuck do you mean, you don't want to continue doing this thing?  Have you not seen how well it is selling?",
+            "Some people just fit better into the entrepreneur lifestyle.",
+            "I am relating to this.\nive been working for 6years in the same company . made a value and good reputation and become one of the top workers.\n\nand my boss wont raise me when i ask.\n\ni feel id rather start my own.",
+            "Thank you for that",
+            "I wanna hear about the haymakers!",
+            "I do have that feeling at times when working in big corporates. U are just a screw in the system and always replaceable. Now I would think a screw could be a big difference if it is not replaceable. Make yourself be that unique screw and u would find a place at anywhere",
+            "I needed this. Not sure how to start, but I have too many ideas to not start throwing haymakers of my own. I hope it proves a blessing to my family if I can manage the transition.",
+            "This is so unfortunate.\n\nThere are always going to be people who are going to wrong you and exploit you. I can understand how unfair it is for someone to not stand by their word. \n\nPlan your finances well (I know you already have) you should have at least 6-12 months of emergency funds for the downtimes. Once your finances are sorted you will be able to focus on your entrepreneurial journey better.\n\nBy the way, what business are you going to start?",
+            "So how has it worked out for you?",
+            "In my first Job, There is a one person with whom we commute together always told me that this is not a place where you can succeed, why don\u2019t you find the some other place..always try to bully me..\n\nbut I take that positive, Within one and half years i left and start the company, which got failed..\n\nbut i have started again and got the good success and running 3 companies now.. I met that person give the credit to him to suggest me a find the other place \ud83d\ude1c",
+            "Though it's a story from America, I am not from America, this shit scares me as someone who is going to start her work life pretty soon.",
+            "Do what you want to do. Don\u2019t let the matrix catch you",
+            "So true, I am still an employee and work hard every day.\nI haven't taken the plunge yet, but I think about doing it every day. I'm afraid to get started because I have 2 children to support and the security of an employee job reassures me.\nBut I have to do it otherwise I know it will be a regret I will have at the end of my life.",
+            "Your story really resonates\u2014thank you for sharing! It\u2019s so easy to get caught up in corporate \u201cnorms\u201d and lose sight of what truly drives us. The fact that you took a risk and trusted yourself shows real strength. Sometimes, leaving the comfortable yet limiting environment is the best decision for personal growth. There\u2019s absolutely a spot for people who think outside the box and pursue their passions. Best of luck on your entrepreneurial journey\u2014keep pushing forward!",
+            "Similar stories in the engineering world at the fuzzy worm. Worked for them way too long. Saved them hundreds of millions over the years leading and solving highly technical engine issues. Never made it above $200k from that job in 18 years. Finally quit just last year after they brought a new manager in to do the job I already had been doing for them, but not getting paid for. Of course that manager still needed me to teach him. Best decision I ever made was going on my own. It finally was clear to me that they would never really take care of me. These massive corporations will do everything they can to keep expenses down. The fuzzy worm has no loyalty to anyone ever. Saw it time and time again. Was always so amazed that I could be anywhere in the world talking to employees, and they would echo the same thoughts. They were at least consistent in treating employees like garbage.",
+            "It's really frustrating when you put in so much effort and it feels like the system doesn't really appreciate it. Your experience with entrepreneurship sounds like a real eye-opener. Sometimes you have to step outside of the corporate box to discover what you're truly capable of.",
+            "Getting fired was an incredibly freeing moment for me after the company I worked at was purchased and they lied about the comp plan to lead to me not getting commission. \n\nThe corporate game just isn\u2019t for everyone, I remember being an intern at what was likely a billion dollar company (at least hundreds of millions due to gov contracts)and seeing a man who worked there get fired for buying items for his pizza shop on the company card apparently. I couldn\u2019t imagine how much dough cheese and tomatoes he could have bought that his 15 years at the company would need to end like that. \n\nSome of us need freedom and some need someone else\u2019s structure.",
+            "Agreed",
+            "Man is born free, but everywhere he is in chains. And you can quote me on that.",
+            "Good post. Thanks for sharing.",
+            "Corporate is so bad :/ it is a NeverEnding story good luck !!",
+            "ZZZ",
+            "Good for u!  That is the beauty of this Country!  You can set your own path!"
+        ],
+        "num_comments": 76,
+        "sentiment": 0.16457463145314571,
+        "score": 805.6457463145315
     },
     {
         "title": "Repeat after me: I don't need an earth-shattering, innovative idea",
-        "upvotes": 363,
+        "upvotes": 359,
         "comments": [
             "\"Find Products For Customers, Not Customers For Products\" \ud83d\udc46",
             "I agree with you. I'm a sales/advertising/bizdev focused person and I've made posts before about how I believe a lot of product/dev minded folks could find their hit a lot faster if they stopped trying to trying to create new languages and started making shit people already want to buy.\n\nThere's a lot of founders trying to reinvent the wheel when they need to be selling tires.\n\nLike, I'd love to find a co-founder for a logistics brokerage, or pet insurance.",
@@ -1991,11 +2034,11 @@
         ],
         "num_comments": 75,
         "sentiment": 0.276391146145267,
-        "score": 803.7639114614527
+        "score": 795.7639114614527
     },
     {
         "title": "How to validate ANY business idea before building (and wasting time and money on it)",
-        "upvotes": 353,
+        "upvotes": 348,
         "comments": [
             "You're right! Super easy trap. Another one is just being overconfident in your own ability to build so you just do it. Underestimating the time it takes. Then the whoops happens. Anyway great advice.",
             "This is why I am on reddit",
@@ -2044,54 +2087,11 @@
         ],
         "num_comments": 94,
         "sentiment": 0.23072200905155452,
-        "score": 802.3072200905156
-    },
-    {
-        "title": "The moments I realized being a corporate employee wasn\u2019t for me",
-        "upvotes": 357,
-        "comments": [
-            "Don't tie yourself to a shit hole and let them control you. Many people have been in the same place and I'm glad you find your way away from it",
-            "100% agree with you bud \n\nI had the same thing working in banking\u2026 they did that big sale contest and kept doing a big show around it\u2026. Every morning showing us who did what and how to get better\u2026..I got second on 30 people the price was 1000$ \u2026.after taxes it gave me like 500$ net lol the first guy got a lunch with a Vp \ud83d\ude02 I couldn\u2019t wrap my head around the fact that we made them so much money and the reward was so small\u2026..\n\nI have my own cie now and when I decide to get into sale mode I make that in one hour \u2026. On a bad day.\n\nBut let\u2019s not forget some people are happy that way\u2026. They like the structure behind it and they takes\nprides telling people they work for a bank or a big company \u2026..Don\u2019t ask me why !! but I guess everybody has a place \u2026..as long as they are happy",
-            "In my career I have found multiple 6 and 7 figure errors in systems, reporting, billing, scope adherence. Nearly all of them have netted my employers many times my yearly salary. I am not a particularly gifted excel user or diligent reader of scopes or contracts. Unfortunately many people in leadership at past employers seem to be worse. \n\nThe most egregious was finding reporting errors that under reported achievement to a client of our product by 5x resulting in an additional seven figure payout to close out the fourth quarter a few years ago. The leader I rolled up to used that achievement as the cherry on top to be named full partner PE firm that owned the company. I was told they didn\u2019t have money for an annual raise as I\u2019d been there less than six months\u2026",
-            "It's actually unreal how much of management are just manipulative narcissists that exploit people smarter than them.",
-            "I had the same situation a few times whed I worked in e-commerce, call-center, manufacturer!!! (three times), self employed... I just can't find good work position that change the game.",
-            "There is a book called \"The Peter Principle\" that explains this very well, unfortunately for me I read it once I quit in the same manner as yours. Excellent read for those kind of individuals not suited for pigeon hole corporate America.",
-            "Great post!",
-            "You should quit the job.... Or, be enslaved...",
-            "I agree. It took me a while to find my spot but breaking out as a prisoner of minimum wage is a blessing.",
-            "Feel like I\u2019ve been preparing a long time to start \u2018throwing some haymakers\u2019 myself. Thanks for the positive boost!! \ud83e\udd4a",
-            "Hello, you are right, I experienced the same thing, except that the Bugs and flaws I didn't say anything \ud83d\ude1c, I resigned and I exploited the flaws to my advantage \ud83d\ude09",
-            "I was employee 6 at a tiny startup.  I joined because the company had shot to $1m arr in a year.  We were aggressively scaling because companies wanted the thing we were selling.  My first month there we added $250k to ARR.\n\nThe ceo decided to pivot because, well, nobody really understands.  The whole team was like... what the actual fuck do you mean, you don't want to continue doing this thing?  Have you not seen how well it is selling?",
-            "Some people just fit better into the entrepreneur lifestyle.",
-            "I am relating to this.\nive been working for 6years in the same company . made a value and good reputation and become one of the top workers.\n\nand my boss wont raise me when i ask.\n\ni feel id rather start my own.",
-            "Thank you for that",
-            "I wanna hear about the haymakers!",
-            "I do have that feeling at times when working in big corporates. U are just a screw in the system and always replaceable. Now I would think a screw could be a big difference if it is not replaceable. Make yourself be that unique screw and u would find a place at anywhere",
-            "I needed this. Not sure how to start, but I have too many ideas to not start throwing haymakers of my own. I hope it proves a blessing to my family if I can manage the transition.",
-            "This is so unfortunate.\n\nThere are always going to be people who are going to wrong you and exploit you. I can understand how unfair it is for someone to not stand by their word. \n\nPlan your finances well (I know you already have) you should have at least 6-12 months of emergency funds for the downtimes. Once your finances are sorted you will be able to focus on your entrepreneurial journey better.\n\nBy the way, what business are you going to start?",
-            "So how has it worked out for you?",
-            "In my first Job, There is a one person with whom we commute together always told me that this is not a place where you can succeed, why don\u2019t you find the some other place..always try to bully me..\n\nbut I take that positive, Within one and half years i left and start the company, which got failed..\n\nbut i have started again and got the good success and running 3 companies now.. I met that person give the credit to him to suggest me a find the other place \ud83d\ude1c",
-            "Though it's a story from America, I am not from America, this shit scares me as someone who is going to start her work life pretty soon.",
-            "Do what you want to do. Don\u2019t let the matrix catch you",
-            "So true, I am still an employee and work hard every day.\nI haven't taken the plunge yet, but I think about doing it every day. I'm afraid to get started because I have 2 children to support and the security of an employee job reassures me.\nBut I have to do it otherwise I know it will be a regret I will have at the end of my life.",
-            "Your story really resonates\u2014thank you for sharing! It\u2019s so easy to get caught up in corporate \u201cnorms\u201d and lose sight of what truly drives us. The fact that you took a risk and trusted yourself shows real strength. Sometimes, leaving the comfortable yet limiting environment is the best decision for personal growth. There\u2019s absolutely a spot for people who think outside the box and pursue their passions. Best of luck on your entrepreneurial journey\u2014keep pushing forward!",
-            "Similar stories in the engineering world at the fuzzy worm. Worked for them way too long. Saved them hundreds of millions over the years leading and solving highly technical engine issues. Never made it above $200k from that job in 18 years. Finally quit just last year after they brought a new manager in to do the job I already had been doing for them, but not getting paid for. Of course that manager still needed me to teach him. Best decision I ever made was going on my own. It finally was clear to me that they would never really take care of me. These massive corporations will do everything they can to keep expenses down. The fuzzy worm has no loyalty to anyone ever. Saw it time and time again. Was always so amazed that I could be anywhere in the world talking to employees, and they would echo the same thoughts. They were at least consistent in treating employees like garbage.",
-            "It's really frustrating when you put in so much effort and it feels like the system doesn't really appreciate it. Your experience with entrepreneurship sounds like a real eye-opener. Sometimes you have to step outside of the corporate box to discover what you're truly capable of.",
-            "Getting fired was an incredibly freeing moment for me after the company I worked at was purchased and they lied about the comp plan to lead to me not getting commission. \n\nThe corporate game just isn\u2019t for everyone, I remember being an intern at what was likely a billion dollar company (at least hundreds of millions due to gov contracts)and seeing a man who worked there get fired for buying items for his pizza shop on the company card apparently. I couldn\u2019t imagine how much dough cheese and tomatoes he could have bought that his 15 years at the company would need to end like that. \n\nSome of us need freedom and some need someone else\u2019s structure.",
-            "Agreed",
-            "Man is born free, but everywhere he is in chains. And you can quote me on that.",
-            "Good post. Thanks for sharing.",
-            "Corporate is so bad :/ it is a NeverEnding story good luck !!",
-            "ZZZ",
-            "Good for u!  That is the beauty of this Country!  You can set your own path!"
-        ],
-        "num_comments": 76,
-        "sentiment": 0.16457463145314571,
-        "score": 791.6457463145315
+        "score": 792.3072200905156
     },
     {
         "title": "From Depression to My First Sale: Why I Chose to Take the Risk",
-        "upvotes": 280,
+        "upvotes": 282,
         "comments": [
             "Congratulations to you! Wishing you the best as you scale your business!",
             "Well done ,To more of sales.",
@@ -2135,11 +2135,11 @@
         ],
         "num_comments": 66,
         "sentiment": 0.31333396592939133,
-        "score": 629.1333396592939
+        "score": 633.1333396592939
     },
     {
         "title": "I bootstrapped a SaaS business from idea to $20,000+/mo in recurring revenue in 11 months, made all of our revenue metrics public, raised $500k in funding and have hired 6 people. AMA",
-        "upvotes": 215,
+        "upvotes": 216,
         "comments": [
             "Hello and congratulations on your growth, and great looking product.\n\nAre you concerned at all that partnering with Stripe so closely will dissuade other potential buyers or investor in the future? \n\nThat \"under the hood\" access to Stripe you mention in the blog, do they have a contractual obligation there or is that part good faith and handshakes? Would the nature of your constructive relationship with Stripe be altered if you started focusing on a competing platform? Interested to hear your thoughts.\n\nAgain, congrats on your success, oh and what's your favorite Biggie song?",
             "What challenges have you had running a 100% remote team?  \n\nI assume you had another job during the first 7 months, what was your strategy for finding time to build out this product?\n\nWhat was your decision process in jumping in to building your startup full-time?\n\nHow did you get the word out about your product at the very beginning?\n\nI'm where you were 7 months ago, so I really appreciate the insight!",
@@ -2195,11 +2195,11 @@
         ],
         "num_comments": 173,
         "sentiment": 0.23792799847211613,
-        "score": 605.3792799847212
+        "score": 607.3792799847212
     },
     {
         "title": "Chasing dreams? It\u2019s like swimming through shit",
-        "upvotes": 165,
+        "upvotes": 170,
         "comments": [
             "What are the 99 other things on your bucket list ?",
             "\u201cWhen I made my first million\u201d .. sick to death of this TikTok hook . Show us your bank asswipe",
@@ -2269,11 +2269,11 @@
         ],
         "num_comments": 213,
         "sentiment": 0.11233680146215803,
-        "score": 544.1233680146216
+        "score": 554.1233680146216
     },
     {
         "title": "Idea to profitable saas app in 3 weeks - here's EXACTLY how i did it",
-        "upvotes": 149,
+        "upvotes": 151,
         "comments": [
             "Absolutely fantastic.  I got chills reading your post!  Tell us more about the crawler script - is it something you'd be willing to share?",
             "Wow, just wow.  Kudos to you!",
@@ -2311,11 +2311,11 @@
         ],
         "num_comments": 105,
         "sentiment": 0.3798937165815342,
-        "score": 406.79893716581535
+        "score": 410.79893716581535
     },
     {
         "title": "How to Validate Your Micro-SaaS Idea",
-        "upvotes": 163,
+        "upvotes": 164,
         "comments": [
             "Great comments! I also found this article really useful it break down the customer discovery process  \n[https://www.futurefounders.com/news-article/what-is-customer-discovery-4-step-guide-to-building-the-right-product-for-the-right-customers/#:\\~:text=Brant%20Cooper%20puts%20it%20simply,an%20assumed%20product%2Dmarket%20fit](https://www.futurefounders.com/news-article/what-is-customer-discovery-4-step-guide-to-building-the-right-product-for-the-right-customers/#:~:text=Brant%20Cooper%20puts%20it%20simply,an%20assumed%20product%2Dmarket%20fit).",
             "Really gems in this topic.",
@@ -2331,11 +2331,11 @@
         ],
         "num_comments": 12,
         "sentiment": 0.3596327861952862,
-        "score": 341.5963278619529
+        "score": 343.5963278619529
     },
     {
         "title": "Validating a SaaS idea and pre-selling licenses at \u20ac3k each - The SaaS to make your site load in under 700ms",
-        "upvotes": 13,
+        "upvotes": 14,
         "comments": [
             "The idea is good, but I'm sceptical that you can keep that promise of guaranteeing a loading speed of <=700ms (or any fixed number) from a technical point of view. Loading speed depends too much on implementation details of individual websites and hardware. How do you guarantee, that a complex query on a database is executed within a fixed time intervall without having any sort of constraints?\n\nEven if you limit yourself to a certain plattform (e.g. WordPress, Magento) you will struggle with plugins and other corner cases.\n\nWhat will happen if you take all that money upfront and fail to deliver?",
             "You're calling it SaaS but you're just building a CDN with setup fees.",
@@ -2349,7 +2349,7 @@
         ],
         "num_comments": 65,
         "sentiment": 0.08507936507936507,
-        "score": 91.85079365079365
+        "score": 93.85079365079365
     },
     {
         "title": "Building a SaaS from an idea to a fully working MVP in 30 days. Sharing the entire process (design, branding, development, marketing) in public.",
@@ -2369,7 +2369,7 @@
     },
     {
         "title": "I'm at the \"people really like the idea and want to use the app, but I can't actually get them to use the app\" phase (SaaS)",
-        "upvotes": 18,
+        "upvotes": 19,
         "comments": [
             "I learned something from doing business. If you want to be sucessfull you have to learn your place, are you good at producing ? selling ? making apps ? you find your place and you work where you are the best then you hire people where you are not the best.   \nIf your app is good and usefull but you can't make people use it then you have low sales skills , hire a seller.  \nIf you want to save money by not hiring people , you will lose money that they could make you win.",
             "If everyone tells you the app is good and the problem is real, and no one wants to use it... then everyone is lying to you. People do this all the time.. they're just being polite. And the worst part is that founders want to believe it so bad, they listen to it instead of fixing it. No one is buying your demo because no one is going to buy it when you launch.\n\nLearn how to interview people properly. The Mom Test is pretty good direct advice on that. It's short.",
@@ -2390,11 +2390,11 @@
         ],
         "num_comments": 37,
         "sentiment": 0.22086034996749282,
-        "score": 75.20860349967492
+        "score": 77.20860349967492
     },
     {
         "title": "I've taken over as CFO/Visionary with complete autonomy. I've grown a SaaS website from 55k/year revenue to 400k+ MRR in 13 months. No idea what to do now.",
-        "upvotes": 20,
+        "upvotes": 18,
         "comments": [
             "Sometimes the best thing to do is nothing at all. Sounds like you have a great business, keep it operating and make as much money as you can for as long as you can. If you're bored, look into hobbies and other forms of fulfillment. Focus on keeping it running smoothly, growing a bit, and keeping costs down. That's just my advice. Don't flail around.",
             "have you considered partnerships as another sales funnel",
@@ -2410,11 +2410,11 @@
         ],
         "num_comments": 23,
         "sentiment": 0.1480007696127826,
-        "score": 64.48000769612783
+        "score": 60.48000769612783
     },
     {
         "title": "2700+ SaaS Ideas, 700+ Directories, 60+ launchpads, 180+ Newsletter, 500+ SaaS Tools in one website. My 2nd project as Entrepreneur",
-        "upvotes": 13,
+        "upvotes": 14,
         "comments": [
             "UI is awesome \ud83d\udd25\nCollection is great too",
             "I love the UI, and if i am not wrong it resembles another website alot in terms of ui, i cant remember its name",
@@ -2429,11 +2429,28 @@
         ],
         "num_comments": 26,
         "sentiment": 0.46229166666666666,
-        "score": 56.62291666666667
+        "score": 58.62291666666667
+    },
+    {
+        "title": "Roast my new SaaS idea",
+        "upvotes": 12,
+        "comments": [
+            "Delete the post and go build it. Sounds amazing!",
+            "I run a software agency so probably your target market. This is interesting. I think there would be a market for it. I don\u2019t think I would use it myself though.\n\n- I much prefer GitHub, and you can use it for free if you don\u2019t need fancy features\n- Google Workspace is cheap per user and gives you social sign in to other apps. You can even do it for free by using personal email addresses until the project takes off.\n- anything technical (user auth, db, whatever) using the native solution from the cloud vendor is my go to. I.e I wouldn\u2019t want any technical decisions made for me. You can get pretty far even with the free tier, especially if you choose serverless technologies\n\nI like where your head is at. There is too much friction between writing code and running a business with it.",
+            "Why is the price so low? If someone is starting an app, side project, etc. I assume they want to make money from it, making this sort of B2C and sort of B2B. $10/month is less than a Netflix subscription, if someone is somewhat serious about their new project, surely they'd be willing to pay more than that.",
+            "You should allow two domains, one for public facing entry, the other for internal systems. The reason is that all of those private and sensitive systems should not be discoverable via DNS look up of your public app domain.",
+            "I have a few questions because this is super interesting. I think your price point is a little low if I understand what you're providing. \n\nAre you providing the VMs?\nAre you patching and maintaining the VMs?\nAre you upgrading the apps put in place? \nAre you providing support? \n\nI think it would be great, and I would enjoy a conversation on this topic.",
+            "Love the idea! Few questions: how come the VM is so cheap (3$)? will you offer different programming langauges? could it be that that one VM is not enough for large userbase? Also agree  wiht others that the price is to low.",
+            "But like, what about the app subdomain?\nWould you have the possibility to choose an \"app starter script\" or a Docker image or maybe start from an existing git repo as a template?\n\nCause like, what if I wasn't a NextJS app, but someone would maybe want to start with a Sveltekit app, or I may want to start from my own react template that includes my fave state manager and whatnot?",
+            "Doesn't supabase basically do all of this already?"
+        ],
+        "num_comments": 26,
+        "sentiment": 0.25301326401772833,
+        "score": 52.530132640177285
     },
     {
         "title": "Bored,Tell me your app/platform/saas idea and I will give you plan on how to start",
-        "upvotes": 14,
+        "upvotes": 13,
         "comments": [
             "[deleted]",
             "I don't know what I really want and what will be better. I have 3 ideas of projects:  \n1. Shooter game on Roblox with monetization  \n2. App with tracking management features on IOS/Android  \n3. App with AI assistance, don't know what it will be and how it will be looks like, but i think it will be app with CV features.\n\nalso, for now I am writing and Research in my university, and I want to build an system for teachers and students to optimize education processes to make it more easier to use phones in study. This app should optimize time management, resources access, and communication in groups, fast notifications. \n\nI think that app for university is the real one goal that can be implemented, but I want brainshtorm this idea.  \nWhat you can say about these ideas?",
@@ -2448,28 +2465,11 @@
         ],
         "num_comments": 25,
         "sentiment": 0.12136904761904761,
-        "score": 54.21369047619048
-    },
-    {
-        "title": "Roast my new SaaS idea",
-        "upvotes": 11,
-        "comments": [
-            "Delete the post and go build it. Sounds amazing!",
-            "I run a software agency so probably your target market. This is interesting. I think there would be a market for it. I don\u2019t think I would use it myself though.\n\n- I much prefer GitHub, and you can use it for free if you don\u2019t need fancy features\n- Google Workspace is cheap per user and gives you social sign in to other apps. You can even do it for free by using personal email addresses until the project takes off.\n- anything technical (user auth, db, whatever) using the native solution from the cloud vendor is my go to. I.e I wouldn\u2019t want any technical decisions made for me. You can get pretty far even with the free tier, especially if you choose serverless technologies\n\nI like where your head is at. There is too much friction between writing code and running a business with it.",
-            "Why is the price so low? If someone is starting an app, side project, etc. I assume they want to make money from it, making this sort of B2C and sort of B2B. $10/month is less than a Netflix subscription, if someone is somewhat serious about their new project, surely they'd be willing to pay more than that.",
-            "You should allow two domains, one for public facing entry, the other for internal systems. The reason is that all of those private and sensitive systems should not be discoverable via DNS look up of your public app domain.",
-            "I have a few questions because this is super interesting. I think your price point is a little low if I understand what you're providing. \n\nAre you providing the VMs?\nAre you patching and maintaining the VMs?\nAre you upgrading the apps put in place? \nAre you providing support? \n\nI think it would be great, and I would enjoy a conversation on this topic.",
-            "Love the idea! Few questions: how come the VM is so cheap (3$)? will you offer different programming langauges? could it be that that one VM is not enough for large userbase? Also agree  wiht others that the price is to low.",
-            "But like, what about the app subdomain?\nWould you have the possibility to choose an \"app starter script\" or a Docker image or maybe start from an existing git repo as a template?\n\nCause like, what if I wasn't a NextJS app, but someone would maybe want to start with a Sveltekit app, or I may want to start from my own react template that includes my fave state manager and whatnot?",
-            "Doesn't supabase basically do all of this already?"
-        ],
-        "num_comments": 26,
-        "sentiment": 0.25301326401772833,
-        "score": 50.530132640177285
+        "score": 52.21369047619048
     },
     {
         "title": "I have a Saas idea for the construction industry but no idea how to code\u2026.",
-        "upvotes": 4,
+        "upvotes": 6,
         "comments": [
             "I advise tech services companies and off-hand I can tell you that you'll be able to find a great agency that can get your app built for 20k. That's not the problem. The problem you have is that the asset you have is: \"Relationships with executives, directors and decision makers of said industry.\" and you need to convert this asset into sales. Product development happens with the customer. You need the customer first. So you need to think about what is the minimum thing you can sell to said executives, directors, and decision makers today, or well at best literally next month. \n\nMaybe the burden of switching to your platform is too high and you need to create a plugin for their existing platform. Maybe your app vs is a Trello plugin. Maybe you need to sell it as IP-backed consulting. I don't know. But unless you know what you're selling don't bother writing a line of code.",
             "I think you should learn the No code tools it will merely take any time and you can do it on your own. Either go for No Code tools like Bubble or AI agents like Cursor, Bolt or Lovable. They are insanely awesome.",
@@ -2499,11 +2499,11 @@
         ],
         "num_comments": 38,
         "sentiment": 0.1878746031746032,
-        "score": 47.87874603174603
+        "score": 51.87874603174603
     },
     {
         "title": "Quitting my job to pursue my SaaS idea",
-        "upvotes": 8,
+        "upvotes": 9,
         "comments": [
             "[removed]",
             "Congrats on taking the leap! Validate your idea with potential customers ASAP.",
@@ -2517,7 +2517,7 @@
         ],
         "num_comments": 20,
         "sentiment": 0.09477119588230698,
-        "score": 36.94771195882307
+        "score": 38.94771195882307
     },
     {
         "title": "People who have successfully launched profitable apps & saas, what was the first few steps you took on the day you decided to pursue the idea?",
@@ -2533,31 +2533,8 @@
         "score": 32.33321778711485
     },
     {
-        "title": "How do you find ideas for a SaaS or an online business and turn them into a real business?",
-        "upvotes": 6,
-        "comments": [
-            "Search communities like discord or reddit (teehee) for subjects you are interested in. Get involved with them, spend a day with each community learning to understand what they're about and what they go through on a daily basis.  Identify a need, come up with a solution, and capitalize on it.  The most important thing is not wasting time doing things that aernt getting you closer to your goal.  Take the first step now, and then after that take the next step. \n\nIf you want to move forward, The worst thing you can do is stand still.",
-            "I\u2019m in the literal opposite position. Long list of viable products/models and adding often. Trust issues so I do everything myself, teaching myself the technical stuff. Snails pace on a project or two at a time and an existence of constant fomo/impatience",
-            "This is sick how many people have the same problem with ideas.   \n  \nThat's why I started [the newsletter](https://theopportunist.co/subscrube) about emerging business ideas (and for myself as well ). Here are some grabs from my finds that might inspire you:\n\n**1. Virtual Wrench**  \nGot a car issue? Who needs to get greasy when a virtual mechanic can diagnose issues in their PJs?\n\n**Why now?:** The gig economy is thriving, and with platforms like JustAnswer booming, this innovative idea taps into a very lucrative and growing $500 billion gig economy market.\n\n**2. Real Estate Crowdfunding Platform**  \nTurning every couch potato into a landlord without the hassle! Crowdfunding as an option for those who want to brag about their real estate prowess without actually doing anything.\n\n**Why now?:** Given the inflationary environment and increasing interest in real estate as a hedge, collective investing platforms are gaining attention. The global real estate crowdfunding market is expected to grow at a CAGR of 58% by 2028.\n\n**3. EcoInsurance**  \nInsurance that actually wants to save the planet, rather than just ignoring it.\n\n**Why now?:** With biodiversity and climate crises looming, companies are starting to realize that eco-friendly is not just cool, it's necessary. Particularly with $20 billion annually needed to combat biodiversity loss globally.\n\n**4. Deepfake Defence Force**  \nProtect the world from cyber-fakes with a SaaS solution detecting AI-driven deepfakes. It's like having your personal Sherlock Holmes, but for the digital age.\n\n**Why now?:** Internet scams leveraging deepfake technology are on the rise, taking advantage of increasingly sophisticated AI tools to deceive people on a massive scale.\n\n**5. AI Powered Restaurant Management System**  \nWhy rely on humans when AI can handle restaurant operations? Revolutionize dining experiences with a digital butler.\n\n**Why now?:** Post-pandemic, restaurants are embracing tech like never before. The global market for restaurant management software is set to grow by 14.3% annually.\n\n**6. Single Parent Match**\n\nThis dating app is specially designed for single parents juggling kids, work, and finding love. Because you shouldn\u2019t have to choose between finding a soulmate and finding a babysitter!\n\n**Why Now?**: The single parent population is growing rapidly, with over 11 million single parent families in the US alone. Traditional dating apps often overlook the unique needs and challenges faced by single parents.\n\n**7. Digital Safe space for Teens**  \nCreate a digital platform offering safe, moderated chat rooms and forums where teens can discuss mental health, academic pressures, and everyday challenges anonymously. Picture a space where teens can vent, share memes, and get support without worrying about trolls or oversharing.\n\n**Why Now?**: The mental health of young people has been significantly impacted by the pandemic, with rising rates of anxiety, low mood, and self-harm. A digital safe space can provide crucial support outside of school hours .\n\n**News Trigger**: Antidepressant use in child mental health services increased by 44% in the last decade",
-            "Talk to people",
-            "B2B is tricky. Unless you find someone\u2014a co-founder or employee\u2014who can handle the business logic, design, and other aspects, it will be really hard to make progress. Additionally, B2B selling is even more challenging. You can create a great product, but unless people trust that you know what you\u2019re talking about, selling it will be very difficult. The best approach is to find a business partner from a different industry who is highly skilled or has strong connections in that field. With the right partner, you\u2019ll have a much better chance of success.\n\nB2C isn\u2019t my strongest area. It\u2019s probably easier to develop a tool by exploring the internet for ideas and problems, but selling it is still extremely hard unless you really know what you\u2019re doing and have a substantial budget for marketing.",
-            "In my case, it started with my own frustration of organizing so many chat conversations with chatgpt, claude, and perplexity. So I made the extension https://ring-gpt.com out of my own boredom and laziness that has now paid customers. \n\nNot too much money, but still enough to validate the idea. Keep looking for paint pants that you encounter and see if you can make something useful around it.",
-            "If you are not having a million ideas a day and lack time to do them all this is not for you.",
-            "Try solving a problem you are facing",
-            "I'm here to help you all the way!",
-            "You can start by looking for challenges that people are facing in industries that you're familiar with. You can post questions like you just did in relevant subreddits or Facebook groups to see what pain points stand out the most and then research to see if any solutions to those challenges already exist.",
-            "The simplest answer is usually the best. Find a problem that people are struggling with, design something that solves it. That's literally all there is to it!",
-            "Sent you DM",
-            "Ask Chat GPT or Google for ideas",
-            "You can start with your own problems and see if anybody else has similar struggles. For instance, the very problem you're describing could be a product. As an example, I created a small weekly newsletter that scrapes social media and blogs and provides a weekly summary. I primarily did it for myself, but I think it might help keep you up to date too.\n\nHere's one of the items from the recent scrape that looks promising to me:\n\nPlatform Migration Tools Hot opportunity: Tools to help users migrate from platform X to alternatives like BlueSky/Mastodon. Focus area: Preserving networks and data during transition.\n\nAdded link if you need some more ideas\n\n>![https://product-miner.beehiiv.com](https://product-miner.beehiiv.com)!<"
-        ],
-        "num_comments": 19,
-        "sentiment": 0.12480272108843538,
-        "score": 32.24802721088435
-    },
-    {
         "title": "If you have an SAAS idea, but you dont know how to code, what would you recommend?",
-        "upvotes": 4,
+        "upvotes": 5,
         "comments": [
             "Start by validating the idea, meaning, customers that will pay to use the product. No sense in pursuing an idea that no one will use. Even if it\u2019s not built yet, set up a simple land page showing what your idea will solve.\nAnalyze how many people sign up and want to be reminded with updates about the solution. Then if that pans out, you could hire to get it built.",
             "Have an idea? The first thing is to validate it. Build an audience. You could easily launch a website in a day with webflow or wordpress. Just have a waitlist form there.   \n\n\nOnce you have a big enough audience resonating with your idea, that is when you should go about building the product.",
@@ -2578,11 +2555,49 @@
         ],
         "num_comments": 20,
         "sentiment": 0.10981359352453103,
-        "score": 29.09813593524531
+        "score": 31.09813593524531
+    },
+    {
+        "title": "How do you find ideas for a SaaS or an online business and turn them into a real business?",
+        "upvotes": 5,
+        "comments": [
+            "Search communities like discord or reddit (teehee) for subjects you are interested in. Get involved with them, spend a day with each community learning to understand what they're about and what they go through on a daily basis.  Identify a need, come up with a solution, and capitalize on it.  The most important thing is not wasting time doing things that aernt getting you closer to your goal.  Take the first step now, and then after that take the next step. \n\nIf you want to move forward, The worst thing you can do is stand still.",
+            "I\u2019m in the literal opposite position. Long list of viable products/models and adding often. Trust issues so I do everything myself, teaching myself the technical stuff. Snails pace on a project or two at a time and an existence of constant fomo/impatience",
+            "This is sick how many people have the same problem with ideas.   \n  \nThat's why I started [the newsletter](https://theopportunist.co/subscrube) about emerging business ideas (and for myself as well ). Here are some grabs from my finds that might inspire you:\n\n**1. Virtual Wrench**  \nGot a car issue? Who needs to get greasy when a virtual mechanic can diagnose issues in their PJs?\n\n**Why now?:** The gig economy is thriving, and with platforms like JustAnswer booming, this innovative idea taps into a very lucrative and growing $500 billion gig economy market.\n\n**2. Real Estate Crowdfunding Platform**  \nTurning every couch potato into a landlord without the hassle! Crowdfunding as an option for those who want to brag about their real estate prowess without actually doing anything.\n\n**Why now?:** Given the inflationary environment and increasing interest in real estate as a hedge, collective investing platforms are gaining attention. The global real estate crowdfunding market is expected to grow at a CAGR of 58% by 2028.\n\n**3. EcoInsurance**  \nInsurance that actually wants to save the planet, rather than just ignoring it.\n\n**Why now?:** With biodiversity and climate crises looming, companies are starting to realize that eco-friendly is not just cool, it's necessary. Particularly with $20 billion annually needed to combat biodiversity loss globally.\n\n**4. Deepfake Defence Force**  \nProtect the world from cyber-fakes with a SaaS solution detecting AI-driven deepfakes. It's like having your personal Sherlock Holmes, but for the digital age.\n\n**Why now?:** Internet scams leveraging deepfake technology are on the rise, taking advantage of increasingly sophisticated AI tools to deceive people on a massive scale.\n\n**5. AI Powered Restaurant Management System**  \nWhy rely on humans when AI can handle restaurant operations? Revolutionize dining experiences with a digital butler.\n\n**Why now?:** Post-pandemic, restaurants are embracing tech like never before. The global market for restaurant management software is set to grow by 14.3% annually.\n\n**6. Single Parent Match**\n\nThis dating app is specially designed for single parents juggling kids, work, and finding love. Because you shouldn\u2019t have to choose between finding a soulmate and finding a babysitter!\n\n**Why Now?**: The single parent population is growing rapidly, with over 11 million single parent families in the US alone. Traditional dating apps often overlook the unique needs and challenges faced by single parents.\n\n**7. Digital Safe space for Teens**  \nCreate a digital platform offering safe, moderated chat rooms and forums where teens can discuss mental health, academic pressures, and everyday challenges anonymously. Picture a space where teens can vent, share memes, and get support without worrying about trolls or oversharing.\n\n**Why Now?**: The mental health of young people has been significantly impacted by the pandemic, with rising rates of anxiety, low mood, and self-harm. A digital safe space can provide crucial support outside of school hours .\n\n**News Trigger**: Antidepressant use in child mental health services increased by 44% in the last decade",
+            "Talk to people",
+            "B2B is tricky. Unless you find someone\u2014a co-founder or employee\u2014who can handle the business logic, design, and other aspects, it will be really hard to make progress. Additionally, B2B selling is even more challenging. You can create a great product, but unless people trust that you know what you\u2019re talking about, selling it will be very difficult. The best approach is to find a business partner from a different industry who is highly skilled or has strong connections in that field. With the right partner, you\u2019ll have a much better chance of success.\n\nB2C isn\u2019t my strongest area. It\u2019s probably easier to develop a tool by exploring the internet for ideas and problems, but selling it is still extremely hard unless you really know what you\u2019re doing and have a substantial budget for marketing.",
+            "In my case, it started with my own frustration of organizing so many chat conversations with chatgpt, claude, and perplexity. So I made the extension https://ring-gpt.com out of my own boredom and laziness that has now paid customers. \n\nNot too much money, but still enough to validate the idea. Keep looking for paint pants that you encounter and see if you can make something useful around it.",
+            "If you are not having a million ideas a day and lack time to do them all this is not for you.",
+            "Try solving a problem you are facing",
+            "I'm here to help you all the way!",
+            "You can start by looking for challenges that people are facing in industries that you're familiar with. You can post questions like you just did in relevant subreddits or Facebook groups to see what pain points stand out the most and then research to see if any solutions to those challenges already exist.",
+            "The simplest answer is usually the best. Find a problem that people are struggling with, design something that solves it. That's literally all there is to it!",
+            "Sent you DM",
+            "Ask Chat GPT or Google for ideas",
+            "You can start with your own problems and see if anybody else has similar struggles. For instance, the very problem you're describing could be a product. As an example, I created a small weekly newsletter that scrapes social media and blogs and provides a weekly summary. I primarily did it for myself, but I think it might help keep you up to date too.\n\nHere's one of the items from the recent scrape that looks promising to me:\n\nPlatform Migration Tools Hot opportunity: Tools to help users migrate from platform X to alternatives like BlueSky/Mastodon. Focus area: Preserving networks and data during transition.\n\nAdded link if you need some more ideas\n\n>![https://product-miner.beehiiv.com](https://product-miner.beehiiv.com)!<"
+        ],
+        "num_comments": 19,
+        "sentiment": 0.12480272108843538,
+        "score": 30.248027210884352
+    },
+    {
+        "title": "How to get ideas for a SAAS type business?",
+        "upvotes": 2,
+        "comments": [
+            "Whatever amazing idea you can come up with yourself is probably going to be wrong, the key is customer development (ie talk to end users and customers that will be using your product)\n\nIf you have experience in a certain field, think about what challenges people that work in that area face. \nDraw up a list of potential topics / ideas to explore then reach out to whomever you think would be a users or customer and ask them if your challenges are correct, what other problems do they face and would they be interested in a solution.\n\nShortlist until you come to 1 idea, refine it and build an MVP that you can show again to the people you spoke to that were interested.",
+            "look at current software. where are the downfalls? what can be done better?\n\nCould you make SAAS for entrepreneurs trying to plan and brainstorm new SAAS?",
+            "I\u2019m here for the thoughts",
+            "I see you\u2019ve been into animation and game design before.  My advice is follow something you love doing until you find a problem that hasn\u2019t been solved before and then create a solution to that problem.  That\u2019s how most entrepreneurs are made\u2026 they don\u2019t just invent an idea from thin air. The world is a hugely saturated place with billions of minds constantly creating business and products, you need to find your niche, and that\u2019s typically my immersing yourself in your passions.  Study, train, grow, learn every day. \n\nKeep in mind people hate cold calling/emails and that 40k mailing list may only turn around <0.1% successful responses.",
+            "I have a great idea. I will DM you now.",
+            "I agree with most of the comments here like solving problems within your domain. I'd also add finding a trending niche and riding that wave. Something that is very early now but may grow into something much bigger in the future. Like how Jeff Bezos got the idea of for Amazon from a statistic that the web was growing at 2,300 percent per year."
+        ],
+        "num_comments": 23,
+        "sentiment": 0.20601415945165946,
+        "score": 29.060141594516594
     },
     {
         "title": "Technical founder looking for someone with a promising SaaS or Idea to be his technical co-founder",
-        "upvotes": 5,
+        "upvotes": 4,
         "comments": [
             "What industries or vertical are you looking to get into?",
             "I have same background I suggest you watch this video, also see 'TK Kader' yt channel  \nhttps://www.youtube.com/watch?v=-Marj9F-xvw",
@@ -2595,33 +2610,18 @@
         ],
         "num_comments": 17,
         "sentiment": 0.03697916666666667,
-        "score": 27.369791666666668
+        "score": 25.369791666666668
     },
     {
         "title": "3 Ideas for Building $1K - $10K MRR Micro SaaS around Cold Outreach",
-        "upvotes": 7,
+        "upvotes": 6,
         "comments": [
             "I love your newsletter!! \ud83d\ude4c\ud83c\udffc",
             "Willard is capable of Idea #1 up to 10 Email/SMS/Voice Outreaches!\n\nhttps://www.loom.com/share/70305c48209b4a33a321725974150b69"
         ],
         "num_comments": 8,
         "sentiment": 0.515625,
-        "score": 27.15625
-    },
-    {
-        "title": "How to get ideas for a SAAS type business?",
-        "upvotes": 1,
-        "comments": [
-            "Whatever amazing idea you can come up with yourself is probably going to be wrong, the key is customer development (ie talk to end users and customers that will be using your product)\n\nIf you have experience in a certain field, think about what challenges people that work in that area face. \nDraw up a list of potential topics / ideas to explore then reach out to whomever you think would be a users or customer and ask them if your challenges are correct, what other problems do they face and would they be interested in a solution.\n\nShortlist until you come to 1 idea, refine it and build an MVP that you can show again to the people you spoke to that were interested.",
-            "look at current software. where are the downfalls? what can be done better?\n\nCould you make SAAS for entrepreneurs trying to plan and brainstorm new SAAS?",
-            "I\u2019m here for the thoughts",
-            "I see you\u2019ve been into animation and game design before.  My advice is follow something you love doing until you find a problem that hasn\u2019t been solved before and then create a solution to that problem.  That\u2019s how most entrepreneurs are made\u2026 they don\u2019t just invent an idea from thin air. The world is a hugely saturated place with billions of minds constantly creating business and products, you need to find your niche, and that\u2019s typically my immersing yourself in your passions.  Study, train, grow, learn every day. \n\nKeep in mind people hate cold calling/emails and that 40k mailing list may only turn around <0.1% successful responses.",
-            "I have a great idea. I will DM you now.",
-            "I agree with most of the comments here like solving problems within your domain. I'd also add finding a trending niche and riding that wave. Something that is very early now but may grow into something much bigger in the future. Like how Jeff Bezos got the idea of for Amazon from a statistic that the web was growing at 2,300 percent per year."
-        ],
-        "num_comments": 23,
-        "sentiment": 0.20601415945165946,
-        "score": 27.060141594516594
+        "score": 25.15625
     },
     {
         "title": "I have an idea for a SAAS but don't know how to begin or what I need...",
@@ -2637,20 +2637,6 @@
         "num_comments": 21,
         "sentiment": 0.21158619929453262,
         "score": 25.115861992945327
-    },
-    {
-        "title": "Validating a Saas idea",
-        "upvotes": 4,
-        "comments": [
-            "In a way this sounds like crowdsourcing to me just that nobody needs to pay to validate your ideas. Like Kickstarter really. You post an idea and users chip in to fund you. This is also validation. You just offer some twist to it. Surely it can be done but its about execution in the end (it always is).",
-            ">A platform where you can buy and sell validated saas ideas.\n\nNot that anybody who got involved with this could possibly care, but I wouldn't mind some definition for 'validation.'\n\n>There is no tool that is concentrated on finding and validating ideas in saas.\n\nWell for one thing people have [what they want to believe](https://www.reddit.com/r/Entrepreneur/comments/86pcc1/my_product_validation_is_completely_different/) is a tool for validation. And now we are right back to this word everybody keeps using for no apparent purpose -- well I take that back [there could be a purpose](https://www.reddit.com/r/Entrepreneur/comments/mupm4w/comment/gv8mh4q/?context=3). Which I have got to think is difficult to render into code.\n\nBut of course coding difficulty is *feasibility* and as such, off topic. Point being people have plenty of tools for illusory validation, but invalidation is what they need and that ... not so much being worked on. \n\n&#x200B;\n\nTIL For the longest time the big thorny problem was *this is desirable but gosh, how could we ever do it?* Now the problem is *we can do all sorts of fantastic things, but who in the hell would care if we did?*",
-            "I\u2019m convinced that if you want to be a real entrepreneur you have to do this yourself so I don\u2019t see the business here. Nothing is truly validated until the person running the business actually sells.",
-            "Check out Apto",
-            "I have been playing around with this idea in my head for a few months too. The crowdsource idea is a bit like AppSumo?"
-        ],
-        "num_comments": 16,
-        "sentiment": 0.057214285714285704,
-        "score": 24.572142857142858
     },
     {
         "title": "Any saas ideas ?",
@@ -2699,8 +2685,51 @@
         "score": 23.11564282278568
     },
     {
+        "title": "Validating a Saas idea",
+        "upvotes": 3,
+        "comments": [
+            "In a way this sounds like crowdsourcing to me just that nobody needs to pay to validate your ideas. Like Kickstarter really. You post an idea and users chip in to fund you. This is also validation. You just offer some twist to it. Surely it can be done but its about execution in the end (it always is).",
+            ">A platform where you can buy and sell validated saas ideas.\n\nNot that anybody who got involved with this could possibly care, but I wouldn't mind some definition for 'validation.'\n\n>There is no tool that is concentrated on finding and validating ideas in saas.\n\nWell for one thing people have [what they want to believe](https://www.reddit.com/r/Entrepreneur/comments/86pcc1/my_product_validation_is_completely_different/) is a tool for validation. And now we are right back to this word everybody keeps using for no apparent purpose -- well I take that back [there could be a purpose](https://www.reddit.com/r/Entrepreneur/comments/mupm4w/comment/gv8mh4q/?context=3). Which I have got to think is difficult to render into code.\n\nBut of course coding difficulty is *feasibility* and as such, off topic. Point being people have plenty of tools for illusory validation, but invalidation is what they need and that ... not so much being worked on. \n\n&#x200B;\n\nTIL For the longest time the big thorny problem was *this is desirable but gosh, how could we ever do it?* Now the problem is *we can do all sorts of fantastic things, but who in the hell would care if we did?*",
+            "I\u2019m convinced that if you want to be a real entrepreneur you have to do this yourself so I don\u2019t see the business here. Nothing is truly validated until the person running the business actually sells.",
+            "Check out Apto",
+            "I have been playing around with this idea in my head for a few months too. The crowdsource idea is a bit like AppSumo?"
+        ],
+        "num_comments": 16,
+        "sentiment": 0.057214285714285704,
+        "score": 22.572142857142858
+    },
+    {
+        "title": "Hello everyone! Can a startup(SaaS) not solve any problem? I\u2019ve heard a lot about people saying your idea must solve a problem but is it necessary in all cases?",
+        "upvotes": 3,
+        "comments": [
+            "\u201cEntertainment\u201d is the answer\n\n\u201cContent distribution system\u201d\n\nIf you don\u2019t create a product that people will either a) pay for, or b) use frequently enough to advertise to them, then you won\u2019t have revenue",
+            "Actually I am working on a SaaS for SaaS companies that use SaaS to solve SaaS related problems. This is the new SEO/dropshipping.",
+            "Actually I am working on a SaaS for SaaS companies that use SaaS to solve SaaS related problems. This is the new SEO/dropshipping",
+            "Social networks in general started as a way to better keep in touch with the expanded (much larger) networks people were developing brought on by the adoption of the internet and all the ways it allowed us to do more things. That was a problem at the time. \n\nAnd with each new networks came improvements or a rethink on what and how you want to share with your network and expand it even further. All in an effort to create a virtual community where people would spend a significant amount of time so ad space could be sold and the creators could make some money",
+            "Some people have 'problems\" that they don't even know they have until you tell them they do and offer a solution. All of those startups you mentioned solve problems. You just didn't identify them. Some of the greatest inventions that were created such as the telephone solved problems that most people didn't even know that they had. People were just fine communicating long-distance in other ways before phones were created and when the first telephone was pitched to an official (don't remember the name), he straight up said, that we don't need it and are \"fine with our messenger boys\". lol\n\nAnd even if you are just offering \"entertainment\". The problem that you are solving is the lack of amusement and excitement in people's dull lives.\n\nIf a startup doesn't solve a problem then it should try to be a \"vitamin\". A vitamin \"boosts\" the user well-being. Makes him better off, but doesn't necessarily take away a pain or solve an apparent problem. Vitamins aren't as good as pain killers, unless they evolve to the point where the user gets \"hooked on it\" and experiences dissatisfaction (pain) from no longer being able to use it.  Hope that helped man. Good luck.",
+            "All those companies you listed did solve a problem. They provided an avenue for marketing and advertising."
+        ],
+        "num_comments": 13,
+        "sentiment": 0.10688131313131315,
+        "score": 20.06881313131313
+    },
+    {
+        "title": "Looking for SaaS ideas and partnership",
+        "upvotes": 3,
+        "comments": [
+            "Dm me",
+            "hi, i would be interested. You happy to agree to non disclosure etc?\n\ni would discuss my product ( part built )  and in proptech and work from there.\n\nI also have a question. If you were going to build a crm or another large product.. would you find an open source version and then change it to suit your product , or start from scratch?",
+            "Dm me!",
+            "Interested to see how this turns out for you.. \n\nI'm also a software developer \\[7 years\\] and Infrastructure engineer \\[8 years\\] been working in corporate since I graduated; so have a really broad exposure to the whole tech stacks.\n\nI may also be looking for a new venture such as yourself!.. Good luck!",
+            "**DM ME**"
+        ],
+        "num_comments": 11,
+        "sentiment": 0.10675324675324675,
+        "score": 18.067532467532466
+    },
+    {
         "title": "I have an idea (SaaS B2B) but I\u2019m not sure it is truly solving a problem. How to proceed given I have no network at all?",
-        "upvotes": 4,
+        "upvotes": 1,
         "comments": [
             "Read this book:  The Lean Startup. \n\nThen apply the methodology.",
             "I recommend looking at it from a different perspective. Right now, it sounds like you've got a cool solution to a problem you had and you're looking for people to tell about it. I think the biggest potential risk for you right now is if you lean on the \"show up and throw up\" approach of telling as many people as you can why your SaaS is great without taking time to understand why they need it (or don't).\n\nThis exercise might help with next steps:\n* Write down the things that made you first realise there was a problem (co-workers complaining about inefficiency, you stumbled across some horrible code, etc.)\n* Keeping in mind your expertise, put a check next to the problems that you think it's plausible other people without your expertise are aware of. I.e., does it take someone with as much knowledge as you have to even be aware of the issues? Or is there broader awareness of the issues, but your expertise is why you were able to come up with solutions that others couldn't?\n* Hopefully you have 2+ checks on your list. Now you can start building your buyer profile: ignoring industry, what department experiences these problems? What level of seniority do they have? How much of a headache do these problems create? Are the people who experience the problem the decision-maker at the company? It's kind of like writing a short biography with the names and companies redacted, and it sounds like you can use your own path for inspiration. Just keep in mind, it should be written from the perspective of not already having the solution.\n\nThere's a phrase I like that I think applies to this: \"Selling is about buying.\" Before you launch into cold calls and trying to pitch your product, you need to know why anyone would want to buy it. If someone came to you early in your journey with this and offered you this solution, would you have paid for it? If not, then why not?\n\nOnce you have all of this detailed, there are a few ways you can check to see how close your buyer profile is to reality. My favourite is to look for people with the right title at any company of any size and ask them to coffee (in person or virtual). Let them know you're interested in learning about how the role varies from industry to industry. You can find these people on LinkedIn or often just by keeping your ears open while you're around town. People like to talk about what they do, especially if they're good at it, so this approach works way better than you might think. For example, I've never been turned down from a coffee invite when I've done it in person, even if I just met the person.\n\nHere's the last and possibly most important part to keep in mind: the coffee is not the pitch meeting. It's truly about learning what these people do, why they do it, what's good/bad about it, etc. Don't lead them to talking about your solution. Make a genuine offer to get to know them and their work better. This kind of conversation is invaluable for 2 reasons:\n1. You'll learn pretty quickly how much people who *should* be aware of your problem actually *are*.\n2. You'll grow a network of people with knowledge that can help you refine your solution so you can be confident it solves a common problem for your prospective buyers.\n\nThere's a lot of nuance in a process like this. As someone who is objectively **not** a data analytics expert, I'd be happy to bounce around some other ideas to help you get to market with a compelling product. Just DM me if you'd like to chat!",
@@ -2714,11 +2743,11 @@
         ],
         "num_comments": 14,
         "sentiment": 0.05881688971885051,
-        "score": 22.588168897188506
+        "score": 16.588168897188506
     },
     {
         "title": "I asked ChatGPT, OpenAi \"Give me 10 SaaS product ideas to start to be able to generate revenue in 3 months? \"",
-        "upvotes": 2,
+        "upvotes": 0,
         "comments": [
             "This looks like the stock answers to any \"what can I do\" threads..",
             "This is great!  This is a perfect example of the state of AI are the present moment, useful and *generative* but not yet *creative*.\n\nThe lists nice, but there's no innovation there. You can tell that it's a neat summary of what has been happening for the past 2-3 years, but no insights into what's next, or - dear to say - what's after what comes next.\n\nHence: humans > AI for innovation in business.",
@@ -2730,36 +2759,7 @@
         ],
         "num_comments": 15,
         "sentiment": 0.13258658008658009,
-        "score": 20.325865800865802
-    },
-    {
-        "title": "Looking for SaaS ideas and partnership",
-        "upvotes": 4,
-        "comments": [
-            "Dm me",
-            "hi, i would be interested. You happy to agree to non disclosure etc?\n\ni would discuss my product ( part built )  and in proptech and work from there.\n\nI also have a question. If you were going to build a crm or another large product.. would you find an open source version and then change it to suit your product , or start from scratch?",
-            "Dm me!",
-            "Interested to see how this turns out for you.. \n\nI'm also a software developer \\[7 years\\] and Infrastructure engineer \\[8 years\\] been working in corporate since I graduated; so have a really broad exposure to the whole tech stacks.\n\nI may also be looking for a new venture such as yourself!.. Good luck!",
-            "**DM ME**"
-        ],
-        "num_comments": 11,
-        "sentiment": 0.10675324675324675,
-        "score": 20.067532467532466
-    },
-    {
-        "title": "Hello everyone! Can a startup(SaaS) not solve any problem? I\u2019ve heard a lot about people saying your idea must solve a problem but is it necessary in all cases?",
-        "upvotes": 2,
-        "comments": [
-            "\u201cEntertainment\u201d is the answer\n\n\u201cContent distribution system\u201d\n\nIf you don\u2019t create a product that people will either a) pay for, or b) use frequently enough to advertise to them, then you won\u2019t have revenue",
-            "Actually I am working on a SaaS for SaaS companies that use SaaS to solve SaaS related problems. This is the new SEO/dropshipping.",
-            "Actually I am working on a SaaS for SaaS companies that use SaaS to solve SaaS related problems. This is the new SEO/dropshipping",
-            "Social networks in general started as a way to better keep in touch with the expanded (much larger) networks people were developing brought on by the adoption of the internet and all the ways it allowed us to do more things. That was a problem at the time. \n\nAnd with each new networks came improvements or a rethink on what and how you want to share with your network and expand it even further. All in an effort to create a virtual community where people would spend a significant amount of time so ad space could be sold and the creators could make some money",
-            "Some people have 'problems\" that they don't even know they have until you tell them they do and offer a solution. All of those startups you mentioned solve problems. You just didn't identify them. Some of the greatest inventions that were created such as the telephone solved problems that most people didn't even know that they had. People were just fine communicating long-distance in other ways before phones were created and when the first telephone was pitched to an official (don't remember the name), he straight up said, that we don't need it and are \"fine with our messenger boys\". lol\n\nAnd even if you are just offering \"entertainment\". The problem that you are solving is the lack of amusement and excitement in people's dull lives.\n\nIf a startup doesn't solve a problem then it should try to be a \"vitamin\". A vitamin \"boosts\" the user well-being. Makes him better off, but doesn't necessarily take away a pain or solve an apparent problem. Vitamins aren't as good as pain killers, unless they evolve to the point where the user gets \"hooked on it\" and experiences dissatisfaction (pain) from no longer being able to use it.  Hope that helped man. Good luck.",
-            "All those companies you listed did solve a problem. They provided an avenue for marketing and advertising."
-        ],
-        "num_comments": 13,
-        "sentiment": 0.10688131313131315,
-        "score": 18.06881313131313
+        "score": 16.325865800865802
     },
     {
         "title": "Seeking Advice: how to validate your B2B SaaS idea?",
@@ -2774,6 +2774,19 @@
         "num_comments": 7,
         "sentiment": 0.18244200244200245,
         "score": 14.824420024420025
+    },
+    {
+        "title": "Thought I found the perfect SaaS business idea...but it's patented?",
+        "upvotes": 3,
+        "comments": [
+            "You\u2019ll want to talk to a patent attorney to confirm and explore options. Software patents are a bit of a black hole of confusion, and leans very heavily into the legalese type maneuvering. \n\nRealistically, the paths are going to come down to:\n- don\u2019t build it\n- try to negotiate a license if you are in a different region that they are not pursuing\n- build it and wait for them to maybe send you a suit\n- in court your lawyer would either argue you have something novel or different that makes the patent not apply OR they\u2019d argue the patent is too broad and ask to court to better define the boundaries that are protected by patent\n\nSource: I am not a lawyer, I have never fought a patent, I have talked with many people about patents. \n\nTLDR; Talk to a patent attorney and define your strategy!",
+            "Seek out a patent attorney.  The key to patents is nuance.  You could get a patent on a screw, for instance, that has slightly different thread pattern because that thread pattern makes the screw 0.0001% stronger, but fundamentally it looks almost identical.  You need to seek a professional opinion on how to patent your idea to make it somewhat different.  The patent might only be worth the marketing aspect or it might only be worth a shield against a potential lawsuit by your perceived competitor, but you still need to talk details with a qualified patent professional to know how much, if any, latitude you have to move within the space without infringing the other company.",
+            "Personally, I would build it anyway. Just don't use their product to gather ideas for your own, and make sure you're making it your own.\n\nThere are many ways to skin a cat, and if their patent is for an algorithm a+b=c, then maybe yours is b+a=c. They can only own specific methods of doing something with a patent, but they can't own the patent on every method of obtaining a certain result. They can't own general ideas or business models, either.\n\nAnd of course, like everyone else mentioned, talk to your lawyer.",
+            "From my understanding software patents do not exist, it's only Intellectual Property (IP).  \nHardware patents? Yeah. It might be BS they're just posting to scare potential up-comers."
+        ],
+        "num_comments": 7,
+        "sentiment": 0.15098338293650793,
+        "score": 14.509833829365078
     },
     {
         "title": "I want to validate my ai saas idea",
@@ -2829,19 +2842,6 @@
         "num_comments": 11,
         "sentiment": 0.1610048941798942,
         "score": 12.610048941798942
-    },
-    {
-        "title": "Thought I found the perfect SaaS business idea...but it's patented?",
-        "upvotes": 2,
-        "comments": [
-            "You\u2019ll want to talk to a patent attorney to confirm and explore options. Software patents are a bit of a black hole of confusion, and leans very heavily into the legalese type maneuvering. \n\nRealistically, the paths are going to come down to:\n- don\u2019t build it\n- try to negotiate a license if you are in a different region that they are not pursuing\n- build it and wait for them to maybe send you a suit\n- in court your lawyer would either argue you have something novel or different that makes the patent not apply OR they\u2019d argue the patent is too broad and ask to court to better define the boundaries that are protected by patent\n\nSource: I am not a lawyer, I have never fought a patent, I have talked with many people about patents. \n\nTLDR; Talk to a patent attorney and define your strategy!",
-            "Seek out a patent attorney.  The key to patents is nuance.  You could get a patent on a screw, for instance, that has slightly different thread pattern because that thread pattern makes the screw 0.0001% stronger, but fundamentally it looks almost identical.  You need to seek a professional opinion on how to patent your idea to make it somewhat different.  The patent might only be worth the marketing aspect or it might only be worth a shield against a potential lawsuit by your perceived competitor, but you still need to talk details with a qualified patent professional to know how much, if any, latitude you have to move within the space without infringing the other company.",
-            "Personally, I would build it anyway. Just don't use their product to gather ideas for your own, and make sure you're making it your own.\n\nThere are many ways to skin a cat, and if their patent is for an algorithm a+b=c, then maybe yours is b+a=c. They can only own specific methods of doing something with a patent, but they can't own the patent on every method of obtaining a certain result. They can't own general ideas or business models, either.\n\nAnd of course, like everyone else mentioned, talk to your lawyer.",
-            "From my understanding software patents do not exist, it's only Intellectual Property (IP).  \nHardware patents? Yeah. It might be BS they're just posting to scare potential up-comers."
-        ],
-        "num_comments": 7,
-        "sentiment": 0.15098338293650793,
-        "score": 12.509833829365078
     },
     {
         "title": "Need Mentorship - SaaS Software Business Idea.",
