@@ -9,7 +9,7 @@ reddit = praw.Reddit(
     user_agent="Bot/1.0 (by u/Dramatic_Forever_546)"
 )
 subreddit = reddit.subreddit("entrepreneur")  
-posts = subreddit.search("saas idea", limit=10)  
+posts = subreddit.search("saas idea", limit=100)  
 
 saas_ideas = []
 
