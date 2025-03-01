@@ -62,4 +62,4 @@ if __name__ == "__main__":
 
         print(f"Successfully saved {len(ranked_ideas)} SaaS ideas to sorted_saas_ideas.json")
         for idea in ranked_ideas[:10]: 
-            print(f"\n🔹 **{idea['title']}**\n   👍 Upvotes: {idea['upvotes']} | Comments: {idea['num_comments']} | 😃 Sentiment: {idea['sentiment']:.2f} | 📊 Score: {idea['score']:.2f}\n---")
+            print(f"\n🔹 **{idea['title']}**\n   Upvotes: {idea['upvotes']} | Comments: {idea['num_comments']} |  Sentiment: {idea['sentiment']:.2f} |  Score: {idea['score']:.2f}\n---")
